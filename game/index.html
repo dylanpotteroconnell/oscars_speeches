@@ -233,6 +233,16 @@
     justify-content: space-between;
   }
 
+  .report-link {
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 0.75rem;
+    color: #666;
+    text-decoration: none;
+  }
+
+  .report-link:hover { color: #999; text-decoration: underline; }
+
   .guesses-left {
     text-align: center;
     font-size: 0.85rem;
@@ -333,6 +343,13 @@
     if (a === b) return true;
     const maxDist = b.length < 15 ? 2 : 3;
     return levenshtein(a, b) <= maxDist;
+  }
+
+  const FEEDBACK_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSdiQ6Z-Cj3US8yAkkYhlBTu-Br6OmIL91xrZ75wo6HDFEO53g/viewform?usp=pp_url';
+
+  function feedbackUrl(sp) {
+    const speech = `${sp.year} | ${sp.category} | ${sp.film_title} | ${sp.winner_clean}`;
+    return `${FEEDBACK_FORM_URL}&entry.952206426=${encodeURIComponent(speech)}`;
   }
 
   function highlightRedactions(snippetRaw) {
@@ -496,6 +513,8 @@
           <button class="btn-primary" id="next-btn" style="max-width:200px">
             ${currentIndex < speeches.length - 1 ? 'Next Speech' : 'See Results'}
           </button>
+          <br>
+          <a class="report-link" href="${feedbackUrl(sp)}" target="_blank">Report an issue with this clue</a>
         </div>
       </div>
     `;
