@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(python:*)",
+      "Bash(dir /s \"C:\\\\Users\\\\dylan\\\\claude_playground\\\\oscars_speeches\")",
+      "Bash(dir \"C:\\\\Users\\\\dylan\\\\claude_playground\\\\oscars_speeches\\\\notebooks\")",
+      "Bash(dir:*)",
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "WebFetch(domain:aaspeechesdb.oscars.org)",
+      "Bash(move:*)",
+      "Bash(pip show:*)",
+      "Bash(gh auth status:*)"
+    ]
+  }
+}
