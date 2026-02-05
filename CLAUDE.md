@@ -29,9 +29,9 @@ Build a trivia game where players see an Academy Award acceptance speech snippet
   - Requires: `pip install playwright && playwright install chromium`
 - **`data/raw/kaggle_speeches.csv`** - 1,669 rows, 1939-2016, 7 columns (original Kaggle dataset)
 - **`data/raw/academy_scraped.csv`** - Scraped from oscars.org, 2017-2024, all categories
-- **`data/cleaned_speeches.csv`** - ~250 rows, 1993-2024, 7 columns, 8 target categories, no nulls
+- **`data/cleaned_speeches.csv`** - 253 rows, 1993-2024, 7 columns, 8 target categories, no nulls
 
-### In Progress: LLM Labeling Pipeline (Phase 2)
+### Completed: LLM Labeling Pipeline (Phase 2)
 - **`scripts/label_speeches.py`** - Generic incremental labeling pipeline that:
   - Reads `data/cleaned_speeches.csv` as input
   - Stores labels separately in `data/labels.csv` (keyed by year+category)
@@ -86,13 +86,15 @@ python scripts/relabel.py --film "gravity" --category "directing" --task snippet
   - Converts NaN values to null for valid JSON (`_safe()` helper)
   - Supports `--test` flag
 - **`game/index.html`** - Single-file trivia game UI:
+  - Start screen with rules explanation
   - Each game = 5 random speeches; shows redacted golden snippet, player guesses movie + category
   - Two-tier hint system: hint 1 = narrow to 6 film options, hint 2 = plot hint. If either is missing, skips to the other.
-  - Scoring: 10 (no hints) → 7 (1 hint) → 5 (2 hints) → 0 (wrong), up to 3 guesses per speech
+  - Scoring: 10 points base, -2 per hint, -2 per wrong guess (min 1 if correct), 0 if wrong after 3 guesses
   - "Give up" button to skip a speech (0 points)
   - Feedback stacks (hints, wrong guesses all visible); validation messages auto-clear on next action
   - Reveals unredacted snippet (in matching card style) with highlighted redactions + full speech
-  - End-of-game summary with per-speech breakdown
+  - "Report an issue" link after each round → pre-fills Google Form with speech identifier
+  - End-of-game summary with per-speech breakdown and acceptance-speech-themed grade
   - Visual: dark theme with gold accents, subtle card glow, gold divider between snippet and guess form
 - **`run_game.bat`** - Quick-start script: exports game data + starts local server at localhost:8000
 - **`notebooks/explore_data.ipynb`** - Data exploration notebook with `show_speech()` for browsing speeches and `show_labels()` for inspecting all labels on a speech (search by winner, film, category, year substring)
@@ -100,9 +102,9 @@ python scripts/relabel.py --film "gravity" --category "directing" --task snippet
 ### Not Yet Started
 
 #### Game Enhancements
+- Deploy as a website
 - More hint types (beyond plot hint)
 - Difficulty levels / speech filtering
-- Deploy as a website
 
 ## Design Decisions
 - **CSV as intermediate format** between pipeline stages (even if app uses something else)
@@ -111,26 +113,29 @@ python scripts/relabel.py --film "gravity" --category "directing" --task snippet
 - **Pipeline is modular** - each step is a separate function, easy to extend
 
 ## Running
+
+All commands run from project root.
+
 ```bash
 # Phase 0: Scrape new speeches from oscars.org (only needed once or to refresh)
-cd scripts
-python scrape_academy.py                        # scrapes 2017-2024
-python scrape_academy.py --start-year 2023 --end-year 2024  # specific range
+python scripts/scrape_academy.py                        # scrapes 2017-2024
+python scripts/scrape_academy.py --start-year 2023 --end-year 2024  # specific range
 
 # Phase 1: Clean raw data (merges Kaggle + Academy sources)
-python clean_speeches.py
+python scripts/clean_speeches.py
 
 # Phase 2: Label speeches (incremental — safe to re-run)
-python label_speeches.py          # full dataset
-python label_speeches.py --test   # 20-speech test subset
+python scripts/label_speeches.py          # full dataset
+python scripts/label_speeches.py --test   # 20-speech test subset
 
 # Phase 3: Export game data
-python export_game_data.py          # full dataset
-python export_game_data.py --test   # test subset
+python scripts/export_game_data.py
 
 # Phase 4: Play the game
 run_game.bat
-# Or manually: python scripts/export_game_data.py && python -m http.server 8000 -d game -b localhost
+# Or manually:
+python scripts/export_game_data.py
+python -m http.server 8000 -d game -b localhost
 # Then open http://localhost:8000/
 ```
 Requires: pandas, google-generativeai, python-dotenv, playwright (for scraper only)

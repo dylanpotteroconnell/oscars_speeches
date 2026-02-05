@@ -256,6 +256,34 @@
     color: #888;
     font-size: 1.1rem;
   }
+
+  .start-screen {
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  .start-screen h2 {
+    color: #d4af37;
+    margin-bottom: 20px;
+  }
+
+  .start-screen .rules {
+    text-align: left;
+    background: #1a1a1a;
+    border: 1px solid #2a2418;
+    border-radius: 12px;
+    padding: 24px;
+    margin: 20px 0;
+    line-height: 1.8;
+  }
+
+  .start-screen .rules p {
+    margin-bottom: 12px;
+  }
+
+  .start-screen .rules p:last-child {
+    margin-bottom: 0;
+  }
 </style>
 </head>
 <body>
@@ -270,6 +298,7 @@
   </header>
 
   <div id="loading">Loading speeches...</div>
+  <div id="start" style="display:none"></div>
   <div id="game" style="display:none"></div>
   <div id="summary" style="display:none"></div>
 </div>
@@ -297,13 +326,11 @@
     return arr;
   }
 
-  function calcPoints(correct, hintsUsed) {
+  function calcPoints(correct, hintsUsed, wrongGuesses) {
     if (!correct) return 0;
-    if (hintsUsed === 0) return 10;
-    if (hintsUsed === 1) return 7;
-    if (hintsUsed === 2) return 5;
-    if (hintsUsed === 3) return 3;
-    return 1;
+    // Start at 10, -2 per hint, -2 per wrong guess, minimum 1
+    let pts = 10 - (hintsUsed * 2) - (wrongGuesses * 2);
+    return Math.max(1, pts);
   }
 
   function escapeHtml(str) {
@@ -428,7 +455,8 @@
     const categoryMatch = categoryInput === sp.category;
 
     if (movieMatch && categoryMatch) {
-      const pts = calcPoints(true, hintsUsed);
+      const wrongGuesses = guessesUsed - 1; // this guess was correct
+      const pts = calcPoints(true, hintsUsed, wrongGuesses);
       score += pts;
       results.push({ speech: sp, correct: true, points: pts });
       showFeedback(`Correct! +${pts} points`, 'correct');
@@ -535,6 +563,16 @@
     updateScoreBar();
   }
 
+  function getGrade(score, maxScore) {
+    const pct = maxScore > 0 ? (score / maxScore) * 100 : 0;
+    if (pct === 100) return "Standing ovation \u2014 the orchestra wouldn\u2019t dare play you off";
+    if (pct >= 80)  return "Tearful thank-you to your agent, your mother, and the Academy";
+    if (pct >= 60)  return "Thanked your publicist, your lawyer, three producers, two casting directors, and a caterer";
+    if (pct >= 40)  return "Forgot to thank your spouse";
+    if (pct >= 20)  return "Played off by the orchestra mid-sentence";
+    return "Tripped on the stairs walking up to the stage";
+  }
+
   function showSummary() {
     document.getElementById('game').style.display = 'none';
     const maxScore = speeches.length * 10;
@@ -543,9 +581,11 @@
     let breakdownHtml = results.map(r => `
       <div>
         <span>${escapeHtml(r.speech.film_title)} (${r.speech.year})</span>
-        <span>${r.correct ? '+' + r.points : 'X'}</span>
+        <span>+${r.points}</span>
       </div>
     `).join('');
+
+    const grade = getGrade(score, maxScore);
 
     const summaryEl = document.getElementById('summary');
     summaryEl.style.display = 'block';
@@ -553,7 +593,10 @@
       <div class="summary">
         <h2>Game Over</h2>
         <div class="final-score">${score} / ${maxScore}</div>
-        <div style="margin-top:10px; color:#aaa">
+        <div style="margin-top:12px; color:#d4af37; font-style:italic; font-size:1.1rem">
+          ${escapeHtml(grade)}
+        </div>
+        <div style="margin-top:6px; color:#aaa">
           ${correctCount} of ${speeches.length} correct
         </div>
         <div class="card breakdown" style="margin-top:24px">
@@ -566,6 +609,27 @@
     `;
   }
 
+  function showStart() {
+    document.getElementById('start').style.display = 'block';
+    document.getElementById('start').innerHTML = `
+      <div class="start-screen">
+        <h2>How to Play</h2>
+        <div class="rules">
+          <p><strong>Goal:</strong> Read a snippet from an Oscar acceptance speech and guess the movie and category. 5 rounds total.</p>
+          <p><strong>Scoring:</strong> 10 points per speech. Each hint or wrong guess costs 2 points. You get 3 guesses per round.</p>
+          <p><strong>Hints:</strong> Two available — a list of possible films, and a cryptic plot clue.</p>
+          <p>Spot an error? You can report it after each round.</p>
+        </div>
+        <button class="btn-primary" id="start-btn" style="max-width:200px">Start Game</button>
+      </div>
+    `;
+    document.getElementById('start-btn').addEventListener('click', () => {
+      document.getElementById('start').style.display = 'none';
+      document.getElementById('game').style.display = 'block';
+      renderGame();
+    });
+  }
+
   // Init
   fetch('data.json')
     .then(r => r.json())
@@ -573,8 +637,7 @@
       data = d;
       speeches = shuffle([...d.speeches]).slice(0, GAME_SIZE);
       document.getElementById('loading').style.display = 'none';
-      document.getElementById('game').style.display = 'block';
-      renderGame();
+      showStart();
     })
     .catch(err => {
       document.getElementById('loading').textContent =
