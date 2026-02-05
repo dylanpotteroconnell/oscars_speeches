@@ -86,7 +86,7 @@ python scripts/relabel.py --film "gravity" --category "directing" --task snippet
   - Converts NaN values to null for valid JSON (`_safe()` helper)
   - Supports `--test` flag
 - **`game/index.html`** - Single-file trivia game UI:
-  - Start screen with rules explanation
+  - Start screen with rules explanation (includes year range 1993-2024) and link to sources page
   - Each game = 5 random speeches; shows redacted golden snippet, player guesses movie + category
   - Two-tier hint system: hint 1 = narrow to 6 film options, hint 2 = plot hint. If either is missing, skips to the other.
   - Scoring: 10 points base, -2 per hint, -2 per wrong guess (min 1 if correct), 0 if wrong after 3 guesses
@@ -96,6 +96,7 @@ python scripts/relabel.py --film "gravity" --category "directing" --task snippet
   - "Report an issue" link after each round → pre-fills Google Form with speech identifier
   - End-of-game summary with per-speech breakdown and acceptance-speech-themed grade
   - Visual: dark theme with gold accents, subtle card glow, gold divider between snippet and guess form
+- **`game/sources.html`** - Data sources page explaining where speeches come from (Kaggle 1939-2016, Academy scraper 2017-2024)
 - **`run_game.bat`** - Quick-start script: exports game data + starts local server at localhost:8000
 - **`notebooks/explore_data.ipynb`** - Data exploration notebook with `show_speech()` for browsing speeches and `show_labels()` for inspecting all labels on a speech (search by winner, film, category, year substring)
 
