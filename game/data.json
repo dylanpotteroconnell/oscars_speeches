@@ -14,12 +14,12 @@
       "plot_hint": "A lawyer finds that his health insurance may not cover everything he thought it would.",
       "snippet_grading": 4,
       "film_options": [
+        "Shine",
+        "Life Is Beautiful",
         "Shakespeare in Love",
-        "Fargo",
+        "Schindler's List",
         "Philadelphia",
-        "As Good as It Gets",
-        "Dead Man Walking",
-        "Shine"
+        "Titanic"
       ]
     },
     {
@@ -36,12 +36,12 @@
       "plot_hint": "A man with a badge discovers that his paperwork has become significantly more complicated.",
       "snippet_grading": 3,
       "film_options": [
-        "The Usual Suspects",
-        "The Fugitive",
-        "Ed Wood",
-        "Erin Brockovich",
-        "Fargo",
-        "Shakespeare in Love"
+        "Affliction",
+        "Good Will Hunting",
+        "As Good as It Gets",
+        "The Piano",
+        "Shakespeare in Love",
+        "The Fugitive"
       ]
     },
     {
@@ -58,12 +58,12 @@
       "plot_hint": "A woman with specific communication needs expresses herself through a series of percussive performances.",
       "snippet_grading": 3,
       "film_options": [
-        "L.A. Confidential",
-        "Shakespeare in Love",
-        "Mighty Aphrodite",
-        "As Good as It Gets",
-        "Bullets over Broadway",
-        "The Piano"
+        "Dead Man Walking",
+        "The Piano",
+        "Leaving Las Vegas",
+        "Fargo",
+        "Shine",
+        "Life Is Beautiful"
       ]
     },
     {
@@ -83,12 +83,12 @@
       "plot_hint": "A businessman engages in a very elaborate barter system.",
       "snippet_grading": 5,
       "film_options": [
-        "Bullets over Broadway",
-        "Shakespeare in Love",
         "Forrest Gump",
+        "Titanic",
         "Schindler's List",
-        "A Beautiful Mind",
-        "L.A. Confidential"
+        "Mystic River",
+        "The Cider House Rules",
+        "Affliction"
       ]
     },
     {
@@ -105,12 +105,12 @@
       "plot_hint": "Someone attempts to manage an increasingly chaotic situation with an unconventional approach to human resources.",
       "snippet_grading": 3,
       "film_options": [
-        "Shine",
-        "Leaving Las Vegas",
-        "The English Patient",
-        "Braveheart",
-        "Schindler's List",
-        "American Beauty"
+        "Saving Private Ryan",
+        "Jerry Maguire",
+        "The Fugitive",
+        "Affliction",
+        "Titanic",
+        "Schindler's List"
       ]
     },
     {
@@ -129,12 +129,12 @@
       "plot_hint": "A businessman discovers that paperwork can, in fact, be quite exciting.",
       "snippet_grading": 3,
       "film_options": [
-        "Sense and Sensibility",
-        "Dead Man Walking",
-        "The Piano",
-        "As Good as It Gets",
-        "Forrest Gump",
-        "Schindler's List"
+        "Titanic",
+        "Schindler's List",
+        "Chicago",
+        "Sling Blade",
+        "L.A. Confidential",
+        "Gladiator"
       ]
     },
     {
@@ -151,12 +151,12 @@
       "plot_hint": "A man who accidentally accomplishes a lot while going for a jog.",
       "snippet_grading": 4,
       "film_options": [
-        "As Good as It Gets",
-        "Monster's Ball",
-        "Forrest Gump",
-        "Fargo",
-        "Leaving Las Vegas",
-        "Blue Sky"
+        "Good Will Hunting",
+        "The Cider House Rules",
+        "Shine",
+        "Ed Wood",
+        "Life Is Beautiful",
+        "Forrest Gump"
       ]
     },
     {
@@ -173,12 +173,12 @@
       "plot_hint": "An aging performer desperately seeking relevance finds himself in a production that, shall we say, misses the mark.",
       "snippet_grading": 3,
       "film_options": [
-        "The English Patient",
-        "Girl, Interrupted",
+        "Shakespeare in Love",
         "Ed Wood",
-        "Bullets over Broadway",
-        "The Cider House Rules",
-        "Jerry Maguire"
+        "The Usual Suspects",
+        "Dead Man Walking",
+        "Jerry Maguire",
+        "Boys Don't Cry"
       ]
     },
     {
@@ -195,12 +195,12 @@
       "plot_hint": "A woman tries to keep things interesting in a very boring place, and almost literally explodes.",
       "snippet_grading": 3,
       "film_options": [
-        "Bullets over Broadway",
         "Fargo",
+        "The Fugitive",
+        "Shakespeare in Love",
+        "Traffic",
         "Blue Sky",
-        "As Good as It Gets",
-        "Mighty Aphrodite",
-        "The Piano"
+        "The Usual Suspects"
       ]
     },
     {
@@ -217,12 +217,12 @@
       "plot_hint": "An over-the-hill actress gets overly invested in the success of a play.",
       "snippet_grading": 3,
       "film_options": [
-        "Shakespeare in Love",
-        "Girl, Interrupted",
-        "Schindler's List",
         "Bullets over Broadway",
-        "The Piano",
-        "The English Patient"
+        "The English Patient",
+        "Shine",
+        "Girl, Interrupted",
+        "Forrest Gump",
+        "Leaving Las Vegas"
       ]
     },
     {
@@ -242,12 +242,12 @@
       "plot_hint": "A man goes for a jog and accidentally becomes extremely influential.",
       "snippet_grading": 3,
       "film_options": [
-        "L.A. Confidential",
-        "Bullets over Broadway",
-        "Shakespeare in Love",
-        "Mighty Aphrodite",
+        "Affliction",
+        "Schindler's List",
+        "The English Patient",
         "Forrest Gump",
-        "Titanic"
+        "Ed Wood",
+        "The Fugitive"
       ]
     },
     {
@@ -264,12 +264,12 @@
       "plot_hint": "A man recounts an eventful life while waiting for transportation.",
       "snippet_grading": 3,
       "film_options": [
-        "The Pianist",
-        "Titanic",
+        "The English Patient",
         "Forrest Gump",
-        "Life Is Beautiful",
+        "Girl, Interrupted",
+        "Schindler's List",
         "Braveheart",
-        "Shine"
+        "L.A. Confidential"
       ]
     },
     {
@@ -288,12 +288,12 @@
       "plot_hint": "A man tells a very long and meandering story, and somehow it all works out for him in the end.",
       "snippet_grading": 3,
       "film_options": [
-        "Sling Blade",
-        "Forrest Gump",
-        "Shine",
-        "L.A. Confidential",
-        "Gladiator",
-        "Training Day"
+        "The Usual Suspects",
+        "Sense and Sensibility",
+        "Schindler's List",
+        "Ed Wood",
+        "The Fugitive",
+        "Forrest Gump"
       ]
     },
     {
@@ -310,12 +310,12 @@
       "plot_hint": "Some workplace disagreements are settled in unconventional ways, and occasionally, somebody orders a milkshake.",
       "snippet_grading": 3,
       "film_options": [
-        "The Lord of the Rings: The Return of the King",
-        "A Beautiful Mind",
-        "Pulp Fiction",
-        "Saving Private Ryan",
-        "Shakespeare in Love",
-        "Good Will Hunting"
+        "American Beauty",
+        "Leaving Las Vegas",
+        "Shine",
+        "Good Will Hunting",
+        "As Good as It Gets",
+        "Pulp Fiction"
       ]
     },
     {
@@ -332,12 +332,12 @@
       "plot_hint": "A man decides to embrace the local culture, perhaps a bit too enthusiastically.",
       "snippet_grading": 3,
       "film_options": [
+        "The Constant Gardener",
         "Leaving Las Vegas",
-        "A Beautiful Mind",
-        "Forrest Gump",
-        "Mighty Aphrodite",
-        "L.A. Confidential",
-        "Shine"
+        "Pollock",
+        "Philadelphia",
+        "Gladiator",
+        "Mighty Aphrodite"
       ]
     },
     {
@@ -359,12 +359,12 @@
       "plot_hint": "A surprisingly gifted storyteller makes some questionable life choices while detained.",
       "snippet_grading": 3,
       "film_options": [
-        "The Fugitive",
         "The Usual Suspects",
-        "Affliction",
         "Good Will Hunting",
-        "Iris",
-        "Ed Wood"
+        "Shakespeare in Love",
+        "The Fugitive",
+        "Pulp Fiction",
+        "The Piano"
       ]
     },
     {
@@ -381,12 +381,12 @@
       "plot_hint": "Someone tries to help, and this is only partially successful.",
       "snippet_grading": 3,
       "film_options": [
-        "Bullets over Broadway",
-        "Erin Brockovich",
-        "As Good as It Gets",
-        "L.A. Confidential",
+        "Blue Sky",
         "Dead Man Walking",
-        "The Piano"
+        "As Good as It Gets",
+        "Leaving Las Vegas",
+        "American Beauty",
+        "Fargo"
       ]
     },
     {
@@ -403,12 +403,12 @@
       "plot_hint": "A woman finds it surprisingly difficult to change careers.",
       "snippet_grading": 3,
       "film_options": [
-        "The Piano",
         "Pollock",
-        "Bullets over Broadway",
+        "Life Is Beautiful",
         "Mighty Aphrodite",
-        "Shakespeare in Love",
-        "Dead Man Walking"
+        "Bullets over Broadway",
+        "American Beauty",
+        "As Good as It Gets"
       ]
     },
     {
@@ -425,12 +425,12 @@
       "plot_hint": "A leader attempts some basic personnel management but it gets out of hand.",
       "snippet_grading": 3,
       "film_options": [
-        "Saving Private Ryan",
-        "Titanic",
-        "Bullets over Broadway",
-        "The English Patient",
-        "Braveheart",
-        "Mighty Aphrodite"
+        "Sling Blade",
+        "Forrest Gump",
+        "The Cider House Rules",
+        "Traffic",
+        "Schindler's List",
+        "Braveheart"
       ]
     },
     {
@@ -449,12 +449,12 @@
       "plot_hint": "Some siblings experience mild roommate disagreements.",
       "snippet_grading": 3,
       "film_options": [
-        "Sling Blade",
-        "Sense and Sensibility",
         "L.A. Confidential",
-        "Dead Man Walking",
-        "Blue Sky",
-        "As Good as It Gets"
+        "The Cider House Rules",
+        "Adaptation",
+        "Sense and Sensibility",
+        "Traffic",
+        "Million Dollar Baby"
       ]
     },
     {
@@ -471,12 +471,12 @@
       "plot_hint": "A group therapy session goes sideways after someone suggests committing crimes.",
       "snippet_grading": 4,
       "film_options": [
-        "As Good as It Gets",
-        "The Usual Suspects",
-        "Forrest Gump",
-        "Life Is Beautiful",
-        "Almost Famous",
-        "American Beauty"
+        "Monster's Ball",
+        "The Piano",
+        "Million Dollar Baby",
+        "Boys Don't Cry",
+        "Shakespeare in Love",
+        "The Usual Suspects"
       ]
     },
     {
@@ -495,12 +495,12 @@
       "plot_hint": "A pianist experiences some minor inconveniences during his career.",
       "snippet_grading": 3,
       "film_options": [
-        "Million Dollar Baby",
-        "American Beauty",
-        "Life Is Beautiful",
-        "The Queen",
         "Shine",
-        "Monster's Ball"
+        "Little Miss Sunshine",
+        "Gosford Park",
+        "Philadelphia",
+        "Eternal Sunshine of the Spotless Mind",
+        "Training Day"
       ]
     },
     {
@@ -519,12 +519,12 @@
       "plot_hint": "A man does his job, perhaps a little too well, while asking to be compensated for his time and effort.",
       "snippet_grading": 3,
       "film_options": [
-        "Good Will Hunting",
-        "Affliction",
-        "Jerry Maguire",
-        "The Piano",
         "As Good as It Gets",
-        "Fargo"
+        "Dead Man Walking",
+        "Iris",
+        "The Usual Suspects",
+        "Jerry Maguire",
+        "Blue Sky"
       ]
     },
     {
@@ -541,12 +541,12 @@
       "plot_hint": "A pregnant police officer investigates a series of incidents, some of which are quite unfortunate.",
       "snippet_grading": 3,
       "film_options": [
-        "The Piano",
+        "The Cider House Rules",
+        "As Good as It Gets",
         "The Usual Suspects",
-        "Erin Brockovich",
-        "Fargo",
         "Jerry Maguire",
-        "Traffic"
+        "The Piano",
+        "Fargo"
       ]
     },
     {
@@ -563,12 +563,12 @@
       "plot_hint": "A nurse finds that her patient is surprisingly complicated.",
       "snippet_grading": 3,
       "film_options": [
-        "Shakespeare in Love",
-        "Bullets over Broadway",
-        "The English Patient",
-        "Braveheart",
         "American Beauty",
-        "A Beautiful Mind"
+        "The English Patient",
+        "Girl, Interrupted",
+        "The Piano",
+        "Forrest Gump",
+        "As Good as It Gets"
       ]
     },
     {
@@ -585,12 +585,12 @@
       "plot_hint": "A tragic love story featuring an unhealthy obsession with maps and poor airplane maintenance.",
       "snippet_grading": 3,
       "film_options": [
+        "Gladiator",
         "The English Patient",
-        "Mystic River",
-        "Forrest Gump",
-        "Schindler's List",
         "Life Is Beautiful",
-        "The Pianist"
+        "A Beautiful Mind",
+        "Forrest Gump",
+        "American Beauty"
       ]
     },
     {
@@ -607,12 +607,12 @@
       "plot_hint": "A map enthusiast deals with some mild inconveniences while trying to return a borrowed plane.",
       "snippet_grading": 3,
       "film_options": [
-        "Braveheart",
-        "Ed Wood",
-        "Traffic",
-        "Good Will Hunting",
-        "Adaptation",
-        "The English Patient"
+        "A Beautiful Mind",
+        "The English Patient",
+        "As Good as It Gets",
+        "The Piano",
+        "Blue Sky",
+        "Forrest Gump"
       ]
     },
     {
@@ -630,11 +630,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Schindler's List",
-        "Ed Wood",
-        "Jerry Maguire",
         "Sling Blade",
-        "Good Will Hunting",
-        "L.A. Confidential"
+        "Saving Private Ryan",
+        "The Pianist",
+        "A Beautiful Mind",
+        "Titanic"
       ]
     },
     {
@@ -651,11 +651,11 @@
       "plot_hint": "A therapist finds that his work is impacting his home life.",
       "snippet_grading": 3,
       "film_options": [
-        "The Fugitive",
         "The Usual Suspects",
-        "Pulp Fiction",
-        "Iris",
         "Shakespeare in Love",
+        "Boys Don't Cry",
+        "Jerry Maguire",
+        "The Hours",
         "Good Will Hunting"
       ]
     },
@@ -673,12 +673,12 @@
       "plot_hint": "A waitress finds that some customers are harder to deal with than others.",
       "snippet_grading": 3,
       "film_options": [
-        "Life Is Beautiful",
-        "Boys Don't Cry",
-        "As Good as It Gets",
-        "Philadelphia",
-        "Forrest Gump",
-        "The Piano"
+        "Training Day",
+        "Shine",
+        "Shakespeare in Love",
+        "Ray",
+        "Monster's Ball",
+        "As Good as It Gets"
       ]
     },
     {
@@ -699,11 +699,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Sense and Sensibility",
-        "Schindler's List",
-        "Shakespeare in Love",
         "L.A. Confidential",
+        "The Cider House Rules",
         "Titanic",
-        "Gladiator"
+        "Shakespeare in Love",
+        "Schindler's List"
       ]
     },
     {
@@ -720,12 +720,12 @@
       "plot_hint": "A work retreat goes horribly wrong due to unforeseen plumbing issues.",
       "snippet_grading": 5,
       "film_options": [
-        "Traffic",
-        "Sense and Sensibility",
+        "As Good as It Gets",
+        "Fargo",
+        "Dead Man Walking",
+        "Titanic",
         "Schindler's List",
-        "L.A. Confidential",
-        "Forrest Gump",
-        "Titanic"
+        "The English Patient"
       ]
     },
     {
@@ -742,12 +742,12 @@
       "plot_hint": "Some ambitious HR managers attempt to implement a zero-tolerance policy with explosive results.",
       "snippet_grading": 3,
       "film_options": [
-        "Mighty Aphrodite",
-        "The Piano",
+        "Forrest Gump",
+        "Sense and Sensibility",
+        "Shakespeare in Love",
         "The English Patient",
         "L.A. Confidential",
-        "Forrest Gump",
-        "Sling Blade"
+        "Braveheart"
       ]
     },
     {
@@ -764,12 +764,12 @@
       "plot_hint": "A self-taught individual attends a very expensive therapy session and learns to take a chance on a girl.",
       "snippet_grading": 3,
       "film_options": [
-        "Life Is Beautiful",
-        "Almost Famous",
-        "Shakespeare in Love",
-        "Good Will Hunting",
+        "Forrest Gump",
         "As Good as It Gets",
-        "Shine"
+        "Leaving Las Vegas",
+        "Fargo",
+        "Good Will Hunting",
+        "The Piano"
       ]
     },
     {
@@ -786,12 +786,12 @@
       "plot_hint": "A charismatic individual uses increasingly elaborate methods to protect his child from a disappointing vacation.",
       "snippet_grading": 4,
       "film_options": [
+        "Erin Brockovich",
+        "Philadelphia",
         "Life Is Beautiful",
-        "Little Miss Sunshine",
+        "Dead Man Walking",
         "American Beauty",
-        "Gosford Park",
-        "Lost in Translation",
-        "Mystic River"
+        "Boys Don't Cry"
       ]
     },
     {
@@ -808,12 +808,12 @@
       "plot_hint": "A man struggles with retirement and expressing his emotions to his son.",
       "snippet_grading": 3,
       "film_options": [
-        "The Usual Suspects",
+        "Traffic",
+        "Adaptation",
         "Affliction",
-        "American Beauty",
-        "Ed Wood",
-        "The Pianist",
-        "Saving Private Ryan"
+        "The Usual Suspects",
+        "The Fugitive",
+        "The Cider House Rules"
       ]
     },
     {
@@ -830,12 +830,12 @@
       "plot_hint": "A woman goes to great lengths to get a job.",
       "snippet_grading": 3,
       "film_options": [
-        "A Beautiful Mind",
+        "Life Is Beautiful",
+        "Gladiator",
+        "The Hours",
+        "As Good as It Gets",
         "Shakespeare in Love",
-        "Pollock",
-        "Blue Sky",
-        "The English Patient",
-        "As Good as It Gets"
+        "The Pianist"
       ]
     },
     {
@@ -852,12 +852,12 @@
       "plot_hint": "A royal person wonders if they should be doing something more with their life.",
       "snippet_grading": 3,
       "film_options": [
-        "The Fugitive",
-        "Good Will Hunting",
+        "Chicago",
+        "Forrest Gump",
+        "Girl, Interrupted",
+        "The Pianist",
         "Shakespeare in Love",
-        "Mighty Aphrodite",
-        "Ed Wood",
-        "Cold Mountain"
+        "Life Is Beautiful"
       ]
     },
     {
@@ -874,12 +874,12 @@
       "plot_hint": "A severe case of writer's block leads to some surprisingly productive role-playing.",
       "snippet_grading": 3,
       "film_options": [
-        "Shakespeare in Love",
-        "Million Dollar Baby",
-        "Walk the Line",
-        "Forrest Gump",
-        "Erin Brockovich",
-        "Schindler's List"
+        "The English Patient",
+        "Jerry Maguire",
+        "Titanic",
+        "Iris",
+        "Little Miss Sunshine",
+        "Shakespeare in Love"
       ]
     },
     {
@@ -896,12 +896,12 @@
       "plot_hint": "A manager attempts to restructure a team that is already experiencing communication issues and low morale.",
       "snippet_grading": 3,
       "film_options": [
-        "Saving Private Ryan",
-        "Dead Man Walking",
-        "Forrest Gump",
-        "Boys Don't Cry",
-        "Traffic",
-        "Fargo"
+        "Shine",
+        "Training Day",
+        "The Pianist",
+        "Leaving Las Vegas",
+        "Braveheart",
+        "Saving Private Ryan"
       ]
     },
     {
@@ -918,12 +918,12 @@
       "plot_hint": "A playwright suffers from writer's block, and then it gets worse when he falls in love.",
       "snippet_grading": 3,
       "film_options": [
-        "Ed Wood",
-        "Jerry Maguire",
-        "The Usual Suspects",
+        "Mystic River",
+        "Affliction",
+        "Good Will Hunting",
         "Shakespeare in Love",
-        "The Cider House Rules",
-        "The Piano"
+        "The Usual Suspects",
+        "The Cider House Rules"
       ]
     },
     {
@@ -940,12 +940,12 @@
       "plot_hint": "A middle-aged man experiences a rather intense career change.",
       "snippet_grading": 3,
       "film_options": [
+        "American Beauty",
+        "The Fugitive",
+        "The Pianist",
         "As Good as It Gets",
-        "Leaving Las Vegas",
-        "Gladiator",
-        "Life Is Beautiful",
-        "Mystic River",
-        "American Beauty"
+        "Good Will Hunting",
+        "Iris"
       ]
     },
     {
@@ -965,12 +965,12 @@
       "plot_hint": "A father figure faces some difficult choices that ultimately involve letting go, probably.",
       "snippet_grading": 4,
       "film_options": [
+        "Million Dollar Baby",
+        "Inglourious Basterds",
+        "Traffic",
         "The Cider House Rules",
-        "Affliction",
-        "Adaptation",
-        "Gosford Park",
-        "Lost in Translation",
-        "Talk to Her"
+        "Jerry Maguire",
+        "Little Miss Sunshine"
       ]
     },
     {
@@ -989,12 +989,12 @@
       "plot_hint": "A newcomer to town experiences some rather unfortunate misunderstandings.",
       "snippet_grading": 3,
       "film_options": [
-        "Good Will Hunting",
-        "Adaptation",
-        "Shakespeare in Love",
         "Blue Sky",
+        "Pulp Fiction",
+        "Fargo",
         "Boys Don't Cry",
-        "Jerry Maguire"
+        "The Hours",
+        "Good Will Hunting"
       ]
     },
     {
@@ -1011,12 +1011,12 @@
       "plot_hint": "A charismatic patient struggles with authority figures and occasionally borrows things without asking.",
       "snippet_grading": 3,
       "film_options": [
-        "Girl, Interrupted",
-        "The Usual Suspects",
         "The Cider House Rules",
-        "Bullets over Broadway",
-        "The Fugitive",
-        "Pollock"
+        "Syriana",
+        "Iris",
+        "Shakespeare in Love",
+        "Girl, Interrupted",
+        "A Beautiful Mind"
       ]
     },
     {
@@ -1035,11 +1035,11 @@
       "plot_hint": "A midlife crisis inspires a man to take up botany and interior design, with unexpected results.",
       "snippet_grading": 3,
       "film_options": [
-        "Forrest Gump",
-        "Braveheart",
+        "Erin Brockovich",
+        "Monster's Ball",
         "American Beauty",
-        "The English Patient",
-        "Schindler's List",
+        "Fargo",
+        "Forrest Gump",
         "Titanic"
       ]
     },
@@ -1059,12 +1059,12 @@
       "plot_hint": "A man going through a midlife crisis decides that maybe teenagers have some good ideas.",
       "snippet_grading": 3,
       "film_options": [
-        "Michael Clayton",
-        "American Beauty",
-        "Million Dollar Baby",
-        "Cold Mountain",
         "The Pianist",
-        "Dreamgirls"
+        "The Constant Gardener",
+        "Chicago",
+        "Saving Private Ryan",
+        "Pollock",
+        "American Beauty"
       ]
     },
     {
@@ -1082,11 +1082,11 @@
       "snippet_grading": 3,
       "film_options": [
         "The Cider House Rules",
-        "Pollock",
-        "Girl, Interrupted",
-        "Chicago",
-        "Traffic",
-        "Forrest Gump"
+        "The Pianist",
+        "As Good as It Gets",
+        "Forrest Gump",
+        "Gladiator",
+        "Leaving Las Vegas"
       ]
     },
     {
@@ -1103,11 +1103,11 @@
       "plot_hint": "A mid-life crisis is approached with a truly impressive lack of self-awareness.",
       "snippet_grading": 3,
       "film_options": [
-        "Pulp Fiction",
-        "Life Is Beautiful",
-        "As Good as It Gets",
-        "The Pianist",
+        "Schindler's List",
+        "The Cider House Rules",
+        "Sense and Sensibility",
         "American Beauty",
+        "Talk to Her",
         "Almost Famous"
       ]
     },
@@ -1127,12 +1127,12 @@
       "plot_hint": "A career change that involves significantly more physical activity than he was expecting.",
       "snippet_grading": 3,
       "film_options": [
-        "Chicago",
-        "Girl, Interrupted",
-        "Training Day",
-        "Life Is Beautiful",
         "Gladiator",
-        "The Aviator"
+        "The Pianist",
+        "Slumdog Millionaire",
+        "Capote",
+        "Brokeback Mountain",
+        "Training Day"
       ]
     },
     {
@@ -1149,12 +1149,12 @@
       "plot_hint": "A cop has a really, really bad day at work, every day.",
       "snippet_grading": 3,
       "film_options": [
-        "Traffic",
-        "Adaptation",
+        "Brokeback Mountain",
         "The Cider House Rules",
-        "The Usual Suspects",
-        "Iris",
-        "Good Will Hunting"
+        "Traffic",
+        "Mystic River",
+        "Million Dollar Baby",
+        "Slumdog Millionaire"
       ]
     },
     {
@@ -1171,12 +1171,12 @@
       "plot_hint": "A tenacious temp worker leverages her unparalleled filing skills to address a clerical error of shocking proportions.",
       "snippet_grading": 3,
       "film_options": [
-        "Erin Brockovich",
-        "The Cider House Rules",
-        "Fargo",
-        "Traffic",
-        "Million Dollar Baby",
-        "Jerry Maguire"
+        "Monster's Ball",
+        "Braveheart",
+        "Monster",
+        "Forrest Gump",
+        "Shakespeare in Love",
+        "Erin Brockovich"
       ]
     },
     {
@@ -1193,12 +1193,12 @@
       "plot_hint": "A really mad man gets sent to anger management, and it goes poorly for everyone involved.",
       "snippet_grading": 3,
       "film_options": [
-        "Shakespeare in Love",
-        "Gosford Park",
-        "Fargo",
-        "Crash",
-        "A Beautiful Mind",
-        "Gladiator"
+        "Forrest Gump",
+        "The Lord of the Rings: The Return of the King",
+        "American Beauty",
+        "Gladiator",
+        "The English Patient",
+        "Training Day"
       ]
     },
     {
@@ -1215,12 +1215,12 @@
       "plot_hint": "A man explores the complex logistics of a certain industry, learning about the supply chain from end to end.",
       "snippet_grading": 3,
       "film_options": [
-        "Shine",
-        "Million Dollar Baby",
-        "Brokeback Mountain",
-        "Leaving Las Vegas",
+        "As Good as It Gets",
+        "Fargo",
+        "Braveheart",
+        "The Lord of the Rings: The Return of the King",
         "Traffic",
-        "American Beauty"
+        "Shakespeare in Love"
       ]
     },
     {
@@ -1237,12 +1237,12 @@
       "plot_hint": "A complex web of individuals find that their professional and personal lives are, shall we say, interconnected.",
       "snippet_grading": 3,
       "film_options": [
-        "Dreamgirls",
-        "Sense and Sensibility",
-        "The Constant Gardener",
-        "A Beautiful Mind",
         "Traffic",
-        "The Cider House Rules"
+        "Life Is Beautiful",
+        "Sideways",
+        "As Good as It Gets",
+        "Sling Blade",
+        "Leaving Las Vegas"
       ]
     },
     {
@@ -1261,12 +1261,12 @@
       "plot_hint": "A young professional takes an immersive approach to their job.",
       "snippet_grading": 3,
       "film_options": [
-        "Almost Famous",
-        "Gladiator",
-        "Gosford Park",
-        "Leaving Las Vegas",
-        "Talk to Her",
-        "Shine"
+        "American Beauty",
+        "The Pianist",
+        "Shine",
+        "As Good as It Gets",
+        "Good Will Hunting",
+        "Almost Famous"
       ]
     },
     {
@@ -1283,12 +1283,12 @@
       "plot_hint": "A seasoned professional takes a newbie under his wing, and some light workplace disagreements ensue.",
       "snippet_grading": 4,
       "film_options": [
-        "As Good as It Gets",
         "Training Day",
-        "Good Will Hunting",
-        "Iris",
-        "Adaptation",
-        "The Last King of Scotland"
+        "Girl, Interrupted",
+        "As Good as It Gets",
+        "Bullets over Broadway",
+        "Pollock",
+        "The Pianist"
       ]
     },
     {
@@ -1312,12 +1312,12 @@
       "plot_hint": "A woman experiences some difficulties in her relationships and is forced to reconsider her lifestyle choices.",
       "snippet_grading": 4,
       "film_options": [
+        "Monster",
+        "Braveheart",
         "Monster's Ball",
-        "Boys Don't Cry",
-        "Dreamgirls",
-        "Walk the Line",
-        "The Fighter",
-        "A Beautiful Mind"
+        "American Beauty",
+        "Titanic",
+        "Shakespeare in Love"
       ]
     },
     {
@@ -1334,11 +1334,11 @@
       "plot_hint": "A supportive spouse puts up with rather a lot.",
       "snippet_grading": 3,
       "film_options": [
-        "Talk to Her",
+        "Million Dollar Baby",
         "The English Patient",
-        "Almost Famous",
-        "Eternal Sunshine of the Spotless Mind",
-        "Girl, Interrupted",
+        "Monster's Ball",
+        "Cold Mountain",
+        "Erin Brockovich",
         "A Beautiful Mind"
       ]
     },
@@ -1358,12 +1358,12 @@
       "plot_hint": "An unreliable narrator navigates academia, love, and the Cold War, potentially not in that order.",
       "snippet_grading": 3,
       "film_options": [
-        "Chicago",
-        "Jerry Maguire",
-        "Iris",
-        "Little Miss Sunshine",
+        "The Lord of the Rings: The Return of the King",
+        "Saving Private Ryan",
+        "Crash",
         "A Beautiful Mind",
-        "The Lord of the Rings: The Return of the King"
+        "Forrest Gump",
+        "Chicago"
       ]
     },
     {
@@ -1380,12 +1380,12 @@
       "plot_hint": "An unreliable narrator gets notes from imaginary friends on how to live his life.",
       "snippet_grading": 3,
       "film_options": [
+        "The Departed",
         "Monster's Ball",
         "American Beauty",
-        "Brokeback Mountain",
-        "Walk the Line",
-        "Million Dollar Baby",
-        "A Beautiful Mind"
+        "A Beautiful Mind",
+        "The Reader",
+        "Monster"
       ]
     },
     {
@@ -1404,12 +1404,12 @@
       "plot_hint": "A man struggles with his mental health and also some geopolitical problems.",
       "snippet_grading": 3,
       "film_options": [
-        "The Lord of the Rings: The Return of the King",
         "A Beautiful Mind",
+        "Little Miss Sunshine",
+        "Eternal Sunshine of the Spotless Mind",
+        "Almost Famous",
         "The Pianist",
-        "Capote",
-        "Sling Blade",
-        "Training Day"
+        "Sideways"
       ]
     },
     {
@@ -1426,12 +1426,12 @@
       "plot_hint": "A weekend getaway reveals that the guests have a few more problems than just deciding where to sit for dinner.",
       "snippet_grading": 4,
       "film_options": [
-        "Girl, Interrupted",
+        "As Good as It Gets",
+        "Gosford Park",
         "Shakespeare in Love",
-        "Fargo",
-        "A Beautiful Mind",
+        "Talk to Her",
         "Crash",
-        "Gosford Park"
+        "Fargo"
       ]
     },
     {
@@ -1448,12 +1448,12 @@
       "plot_hint": "An individual experiences some minor inconveniences after a change in his living arrangements.",
       "snippet_grading": 4,
       "film_options": [
-        "The Last King of Scotland",
-        "Boys Don't Cry",
         "The Pianist",
-        "Dead Man Walking",
-        "Mystic River",
-        "Monster"
+        "American Beauty",
+        "Bullets over Broadway",
+        "The Last King of Scotland",
+        "Pollock",
+        "Girl, Interrupted"
       ]
     },
     {
@@ -1470,12 +1470,12 @@
       "plot_hint": "A man with a hobby finds himself uncomfortably involved in the main narrative.",
       "snippet_grading": 3,
       "film_options": [
-        "Million Dollar Baby",
         "Adaptation",
-        "Capote",
-        "No Country for Old Men",
-        "Gladiator",
-        "Leaving Las Vegas"
+        "The Lord of the Rings: The Return of the King",
+        "A Beautiful Mind",
+        "Little Miss Sunshine",
+        "Syriana",
+        "Chicago"
       ]
     },
     {
@@ -1492,12 +1492,12 @@
       "plot_hint": "A performer takes extreme measures to maintain her position in the spotlight.",
       "snippet_grading": 3,
       "film_options": [
-        "The Constant Gardener",
-        "American Beauty",
-        "Crash",
-        "Gosford Park",
         "Chicago",
-        "A Beautiful Mind"
+        "A Beautiful Mind",
+        "Affliction",
+        "Mystic River",
+        "The Aviator",
+        "The Fugitive"
       ]
     },
     {
@@ -1518,12 +1518,12 @@
       "plot_hint": "Two ambitious women discover that maybe, just maybe, you *can* kill a man and get away with it.",
       "snippet_grading": 3,
       "film_options": [
-        "Fargo",
+        "Boys Don't Cry",
         "Monster's Ball",
+        "The Departed",
+        "Chicago",
         "Million Dollar Baby",
-        "No Country for Old Men",
-        "Erin Brockovich",
-        "Chicago"
+        "Erin Brockovich"
       ]
     },
     {
@@ -1540,12 +1540,12 @@
       "plot_hint": "A struggling artist faces severe noise complaints from new neighbors.",
       "snippet_grading": 4,
       "film_options": [
-        "Million Dollar Baby",
-        "Walk the Line",
         "The Pianist",
-        "The Lord of the Rings: The Return of the King",
-        "Brokeback Mountain",
-        "Monster"
+        "No Country for Old Men",
+        "Sideways",
+        "Mystic River",
+        "A Beautiful Mind",
+        "The Dark Knight"
       ]
     },
     {
@@ -1562,12 +1562,12 @@
       "plot_hint": "Two men find unconventional ways to offer emotional support to women they are not actually speaking with.",
       "snippet_grading": 3,
       "film_options": [
-        "Juno",
-        "Adaptation",
+        "No Country for Old Men",
+        "Eternal Sunshine of the Spotless Mind",
+        "Inglourious Basterds",
         "Talk to Her",
-        "The Cider House Rules",
-        "Affliction",
-        "Little Miss Sunshine"
+        "Crash",
+        "Syriana"
       ]
     },
     {
@@ -1584,12 +1584,12 @@
       "plot_hint": "A grieving father takes some drastic measures to deal with a neighborhood dispute.",
       "snippet_grading": 3,
       "film_options": [
-        "The Aviator",
-        "Capote",
-        "Dreamgirls",
-        "Training Day",
-        "Mystic River",
-        "Cold Mountain"
+        "Almost Famous",
+        "American Beauty",
+        "The Last King of Scotland",
+        "Talk to Her",
+        "The Pianist",
+        "Mystic River"
       ]
     },
     {
@@ -1606,12 +1606,12 @@
       "plot_hint": "A man with a complicated past finds himself rather preoccupied with some neighborhood happenings.",
       "snippet_grading": 3,
       "film_options": [
-        "The Aviator",
-        "A Beautiful Mind",
-        "The Constant Gardener",
-        "Syriana",
+        "Gosford Park",
         "Traffic",
-        "Mystic River"
+        "Mystic River",
+        "Almost Famous",
+        "The Usual Suspects",
+        "The Cider House Rules"
       ]
     },
     {
@@ -1628,12 +1628,12 @@
       "plot_hint": "Some hikers find that some jewelry they're carrying has unforeseen consequences.",
       "snippet_grading": 3,
       "film_options": [
-        "Chicago",
-        "The Reader",
+        "Little Miss Sunshine",
+        "No Country for Old Men",
         "The Lord of the Rings: The Return of the King",
-        "Slumdog Millionaire",
-        "The Queen",
-        "Silver Linings Playbook"
+        "Mystic River",
+        "American Beauty",
+        "The Departed"
       ]
     },
     {
@@ -1650,12 +1650,12 @@
       "plot_hint": "A man needs to take some jewelry back to where he got it, and some other people tag along for the hike.",
       "snippet_grading": 3,
       "film_options": [
-        "Ray",
-        "No Country for Old Men",
-        "American Beauty",
-        "The Lord of the Rings: The Return of the King",
-        "Life Is Beautiful",
-        "Slumdog Millionaire"
+        "The King's Speech",
+        "Slumdog Millionaire",
+        "Traffic",
+        "Milk",
+        "Dallas Buyers Club",
+        "The Lord of the Rings: The Return of the King"
       ]
     },
     {
@@ -1672,12 +1672,12 @@
       "plot_hint": "Two friends take a long walk to return some jewelry.",
       "snippet_grading": 3,
       "film_options": [
-        "Erin Brockovich",
         "The Lord of the Rings: The Return of the King",
+        "The Departed",
+        "The Usual Suspects",
+        "Almost Famous",
         "The Pianist",
-        "Dead Man Walking",
-        "No Country for Old Men",
-        "Shakespeare in Love"
+        "Crash"
       ]
     },
     {
@@ -1696,12 +1696,12 @@
       "plot_hint": "Two people experience a temporary connection amidst the existential boredom of a business trip.",
       "snippet_grading": 3,
       "film_options": [
-        "Talk to Her",
+        "The Hours",
+        "Boys Don't Cry",
+        "Almost Famous",
         "Lost in Translation",
-        "The Piano",
-        "Crash",
-        "Shakespeare in Love",
-        "Fargo"
+        "Walk the Line",
+        "Little Miss Sunshine"
       ]
     },
     {
@@ -1718,12 +1718,12 @@
       "plot_hint": "A man learns that perfect pitch doesn't prevent life from throwing a few curveballs.",
       "snippet_grading": 4,
       "film_options": [
-        "Mystic River",
-        "Traffic",
-        "Good Will Hunting",
         "Ray",
-        "Gladiator",
-        "There Will Be Blood"
+        "American Beauty",
+        "Lost in Translation",
+        "The Last King of Scotland",
+        "Capote",
+        "Almost Famous"
       ]
     },
     {
@@ -1740,12 +1740,12 @@
       "plot_hint": "A woman looking for a career change experiences a minor setback.",
       "snippet_grading": 4,
       "film_options": [
-        "Million Dollar Baby",
-        "Pollock",
-        "Chicago",
-        "The Constant Gardener",
+        "The Hours",
         "Erin Brockovich",
-        "Monster's Ball"
+        "American Beauty",
+        "The Last King of Scotland",
+        "The Pianist",
+        "Million Dollar Baby"
       ]
     },
     {
@@ -1762,12 +1762,12 @@
       "plot_hint": "A famous person with a reputation for eccentricity might enjoy the company of someone who is even more eccentric.",
       "snippet_grading": 3,
       "film_options": [
-        "Chicago",
-        "Crash",
-        "The Usual Suspects",
-        "A Beautiful Mind",
-        "The Aviator",
-        "Almost Famous"
+        "Adaptation",
+        "The Cider House Rules",
+        "Little Miss Sunshine",
+        "Cold Mountain",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "The Aviator"
       ]
     },
     {
@@ -1786,12 +1786,12 @@
       "plot_hint": "A gym owner makes a series of questionable decisions regarding the professional development of one of his clients.",
       "snippet_grading": 3,
       "film_options": [
-        "The Queen",
         "A Beautiful Mind",
         "Million Dollar Baby",
-        "The Reader",
-        "Blue Jasmine",
-        "American Beauty"
+        "L.A. Confidential",
+        "The Lord of the Rings: The Return of the King",
+        "Pollock",
+        "Girl, Interrupted"
       ]
     },
     {
@@ -1808,12 +1808,12 @@
       "plot_hint": "A road trip mostly goes as planned, which is the problem.",
       "snippet_grading": 3,
       "film_options": [
-        "The Pianist",
-        "Sideways",
         "Little Miss Sunshine",
-        "Precious: Based on the Novel 'Push' by Sapphire",
-        "Syriana",
-        "The Fighter"
+        "Eternal Sunshine of the Spotless Mind",
+        "The Cider House Rules",
+        "No Country for Old Men",
+        "Sideways",
+        "American Beauty"
       ]
     },
     {
@@ -1830,12 +1830,12 @@
       "plot_hint": "Boy meets girl, boy loses girl, boy undergoes experimental procedure to forget girl, boy maybe regrets experimental procedure.",
       "snippet_grading": 3,
       "film_options": [
-        "Mystic River",
-        "The Last King of Scotland",
         "Eternal Sunshine of the Spotless Mind",
-        "Juno",
+        "Shakespeare in Love",
+        "Monster's Ball",
+        "The Hurt Locker",
         "Milk",
-        "Ray"
+        "The Queen"
       ]
     },
     {
@@ -1852,12 +1852,12 @@
       "plot_hint": "A meticulous researcher finds himself becoming a little too invested in his work.",
       "snippet_grading": 4,
       "film_options": [
-        "Syriana",
-        "Milk",
-        "No Country for Old Men",
-        "The King's Speech",
+        "Ray",
         "Capote",
-        "Inglourious Basterds"
+        "Chicago",
+        "The Hurt Locker",
+        "The Pianist",
+        "The Departed"
       ]
     },
     {
@@ -1876,11 +1876,11 @@
       "plot_hint": "An injured consultant just wants to get the facts straight, which turns out to be surprisingly complicated.",
       "snippet_grading": 3,
       "film_options": [
-        "Crash",
-        "A Beautiful Mind",
-        "The Departed",
+        "The Aviator",
+        "Pollock",
         "Million Dollar Baby",
-        "Adaptation",
+        "L.A. Confidential",
+        "Traffic",
         "Syriana"
       ]
     },
@@ -1900,12 +1900,12 @@
       "plot_hint": "A backup singer with a mind of her own ends up in a surprisingly long-term gig.",
       "snippet_grading": 4,
       "film_options": [
-        "The King's Speech",
+        "Little Miss Sunshine",
+        "The Reader",
         "Walk the Line",
-        "There Will Be Blood",
-        "Monster's Ball",
-        "The Artist",
-        "Monster"
+        "Syriana",
+        "Monster",
+        "No Country for Old Men"
       ]
     },
     {
@@ -1922,12 +1922,12 @@
       "plot_hint": "An activist who learns that asking questions can have fatal consequences.",
       "snippet_grading": 3,
       "film_options": [
-        "Inglourious Basterds",
-        "Million Dollar Baby",
-        "Pollock",
-        "The Fighter",
+        "A Beautiful Mind",
+        "Talk to Her",
         "The Constant Gardener",
-        "Dallas Buyers Club"
+        "Shakespeare in Love",
+        "Almost Famous",
+        "The Fighter"
       ]
     },
     {
@@ -1944,12 +1944,12 @@
       "plot_hint": "Two friends decide to spend some time together in nature, and it goes... surprisingly well.",
       "snippet_grading": 4,
       "film_options": [
-        "The Pianist",
-        "Black Swan",
-        "The Queen",
-        "Brokeback Mountain",
         "Million Dollar Baby",
-        "The Iron Lady"
+        "Brokeback Mountain",
+        "The King's Speech",
+        "Iris",
+        "No Country for Old Men",
+        "Traffic"
       ]
     },
     {
@@ -1968,12 +1968,12 @@
       "plot_hint": "Two friends enjoy an extended camping trip, during which their relationship evolves in unexpected ways.",
       "snippet_grading": 3,
       "film_options": [
-        "The Social Network",
-        "The Usual Suspects",
-        "No Country for Old Men",
-        "Fargo",
-        "Almost Famous",
-        "Brokeback Mountain"
+        "Dreamgirls",
+        "Cold Mountain",
+        "Chicago",
+        "Brokeback Mountain",
+        "Slumdog Millionaire",
+        "Sideways"
       ]
     },
     {
@@ -1991,11 +1991,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Traffic",
+        "Adaptation",
         "Milk",
         "Crash",
-        "Syriana",
-        "Iris",
-        "Eternal Sunshine of the Spotless Mind"
+        "No Country for Old Men",
+        "The King's Speech"
       ]
     },
     {
@@ -2012,12 +2012,12 @@
       "plot_hint": "A doctor makes a new friend who asks him to do things he is not entirely comfortable with.",
       "snippet_grading": 3,
       "film_options": [
-        "Little Miss Sunshine",
-        "The Last King of Scotland",
-        "Ray",
-        "Gosford Park",
-        "American Beauty",
-        "There Will Be Blood"
+        "Crazy Heart",
+        "There Will Be Blood",
+        "Million Dollar Baby",
+        "The Lord of the Rings: The Return of the King",
+        "Crash",
+        "The Last King of Scotland"
       ]
     },
     {
@@ -2034,12 +2034,12 @@
       "plot_hint": "A retiree offers some questionable advice to his granddaughter.",
       "snippet_grading": 3,
       "film_options": [
-        "Gladiator",
-        "Ray",
-        "Inglourious Basterds",
-        "Mystic River",
+        "The Departed",
+        "Crash",
+        "The Hurt Locker",
+        "The Dark Knight",
         "Little Miss Sunshine",
-        "Training Day"
+        "Iris"
       ]
     },
     {
@@ -2056,11 +2056,11 @@
       "plot_hint": "A woman struggles to maintain decorum while her family experiences some very public drama.",
       "snippet_grading": 4,
       "film_options": [
-        "Million Dollar Baby",
-        "Beginners",
-        "La Vie en Rose",
-        "Monster's Ball",
-        "Inglourious Basterds",
+        "The Reader",
+        "Midnight in Paris",
+        "The King's Speech",
+        "Django Unchained",
+        "The Blind Side",
         "The Queen"
       ]
     },
@@ -2078,12 +2078,12 @@
       "plot_hint": "A backup singer experiences a minor disagreement with management regarding her future career prospects.",
       "snippet_grading": 3,
       "film_options": [
-        "The Queen",
-        "The Reader",
-        "Monster's Ball",
-        "Cold Mountain",
+        "Gladiator",
+        "The Pianist",
         "The Help",
-        "Dreamgirls"
+        "American Beauty",
+        "Dreamgirls",
+        "The Aviator"
       ]
     },
     {
@@ -2102,12 +2102,12 @@
       "plot_hint": "Two new hires at a company discover some... duplication of effort.",
       "snippet_grading": 3,
       "film_options": [
-        "Chicago",
-        "Crazy Heart",
-        "The Departed",
-        "Dallas Buyers Club",
-        "The Last King of Scotland",
-        "The Artist"
+        "The Constant Gardener",
+        "Michael Clayton",
+        "Slumdog Millionaire",
+        "The Artist",
+        "The Fighter",
+        "The Departed"
       ]
     },
     {
@@ -2125,11 +2125,11 @@
       "snippet_grading": 3,
       "film_options": [
         "The Departed",
-        "Silver Linings Playbook",
-        "The Lord of the Rings: The Return of the King",
-        "The Artist",
-        "Black Swan",
-        "The Reader"
+        "A Beautiful Mind",
+        "Chicago",
+        "The Pianist",
+        "Girl, Interrupted",
+        "Cold Mountain"
       ]
     },
     {
@@ -2146,12 +2146,12 @@
       "plot_hint": "A therapy session reveals that someone has deeply mixed feelings about some colleagues.",
       "snippet_grading": 4,
       "film_options": [
-        "The Lord of the Rings: The Return of the King",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "The Pianist",
+        "Les Misérables",
         "The Departed",
-        "No Country for Old Men",
-        "Jerry Maguire",
-        "Iris",
-        "Mystic River"
+        "The Help",
+        "12 Years a Slave"
       ]
     },
     {
@@ -2168,12 +2168,12 @@
       "plot_hint": "A road trip ensues after a young girl hears some questionable advice.",
       "snippet_grading": 3,
       "film_options": [
-        "Lost in Translation",
+        "Little Miss Sunshine",
         "There Will Be Blood",
-        "The Last King of Scotland",
-        "Ray",
-        "Eternal Sunshine of the Spotless Mind",
-        "Little Miss Sunshine"
+        "Crazy Heart",
+        "Lost in Translation",
+        "The Artist",
+        "Gosford Park"
       ]
     },
     {
@@ -2192,12 +2192,12 @@
       "plot_hint": "A milkshake salesman goes to extreme lengths to secure resources.",
       "snippet_grading": 3,
       "film_options": [
-        "There Will Be Blood",
-        "No Country for Old Men",
+        "The Help",
+        "Ray",
+        "Les Misérables",
+        "The Fighter",
         "Mystic River",
-        "Little Miss Sunshine",
-        "The Dark Knight",
-        "Crazy Heart"
+        "There Will Be Blood"
       ]
     },
     {
@@ -2216,12 +2216,12 @@
       "plot_hint": "A man with a bad haircut who is searching for a briefcase.",
       "snippet_grading": 3,
       "film_options": [
-        "Dreamgirls",
-        "Mystic River",
+        "American Beauty",
+        "Ray",
+        "Adaptation",
+        "Beginners",
         "No Country for Old Men",
-        "The Help",
-        "The Dark Knight",
-        "Michael Clayton"
+        "Mystic River"
       ]
     },
     {
@@ -2238,12 +2238,12 @@
       "plot_hint": "A performer with some substance abuse issues experiences a challenging life, really.",
       "snippet_grading": 3,
       "film_options": [
+        "Million Dollar Baby",
+        "The King's Speech",
         "La Vie en Rose",
-        "Milk",
-        "Silver Linings Playbook",
-        "Walk the Line",
-        "The Artist",
-        "Lincoln"
+        "The Hours",
+        "Argo",
+        "Slumdog Millionaire"
       ]
     },
     {
@@ -2260,11 +2260,11 @@
       "plot_hint": "A high-strung professional has a really, really bad day at work.",
       "snippet_grading": 4,
       "film_options": [
+        "Gosford Park",
+        "Talk to Her",
         "Michael Clayton",
-        "The Descendants",
-        "The Imitation Game",
-        "Les Misérables",
-        "12 Years a Slave",
+        "The Help",
+        "Crash",
         "The Fighter"
       ]
     },
@@ -2282,12 +2282,12 @@
       "plot_hint": "A series of unfortunate events ensue after someone picks up something they probably shouldn't have.",
       "snippet_grading": 3,
       "film_options": [
-        "Chicago",
-        "Crazy Heart",
-        "Lincoln",
         "No Country for Old Men",
-        "There Will Be Blood",
-        "The Hurt Locker"
+        "Cold Mountain",
+        "Chicago",
+        "A Beautiful Mind",
+        "The Lord of the Rings: The Return of the King",
+        "The Aviator"
       ]
     },
     {
@@ -2307,12 +2307,12 @@
       "plot_hint": "Two guys have a vision, and it involves a lot of wide-open spaces and questionable decision-making.",
       "snippet_grading": 3,
       "film_options": [
-        "Pollock",
-        "The Hurt Locker",
+        "The Departed",
+        "Slumdog Millionaire",
+        "Black Swan",
         "No Country for Old Men",
-        "The Constant Gardener",
-        "Michael Clayton",
-        "Life of Pi"
+        "The Iron Lady",
+        "The Queen"
       ]
     },
     {
@@ -2329,12 +2329,12 @@
       "plot_hint": "A series of unfortunate events is set into motion by the recovery of lost property.",
       "snippet_grading": 3,
       "film_options": [
-        "Crazy Heart",
-        "Sideways",
-        "Lincoln",
-        "The Pianist",
+        "The Descendants",
         "No Country for Old Men",
-        "The Artist"
+        "Django Unchained",
+        "The Fighter",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "Three Billboards outside Ebbing, Missouri"
       ]
     },
     {
@@ -2351,12 +2351,12 @@
       "plot_hint": "A Californian man discovers a new hobby, and then tries to get everyone else to participate as well.",
       "snippet_grading": 4,
       "film_options": [
-        "Precious: Based on the Novel 'Push' by Sapphire",
-        "Capote",
+        "Dreamgirls",
+        "There Will Be Blood",
         "Milk",
-        "The Help",
-        "The Fighter",
-        "The Last King of Scotland"
+        "The Aviator",
+        "The Artist",
+        "The Constant Gardener"
       ]
     },
     {
@@ -2376,11 +2376,11 @@
       "snippet_grading": 4,
       "film_options": [
         "The Dark Knight",
-        "Chicago",
-        "Crash",
-        "Inglourious Basterds",
-        "Beginners",
-        "The Departed"
+        "Syriana",
+        "Dallas Buyers Club",
+        "Million Dollar Baby",
+        "La Vie en Rose",
+        "Black Swan"
       ]
     },
     {
@@ -2397,11 +2397,11 @@
       "plot_hint": "An illiterate woman has a secret that could cause her problems later in life.",
       "snippet_grading": 3,
       "film_options": [
-        "The Artist",
-        "Birdman or (The Unexpected Virtue of Ignorance)",
-        "The Queen",
-        "Argo",
+        "The Blind Side",
+        "Talk to Her",
+        "Lost in Translation",
         "The Reader",
+        "Almost Famous",
         "Blue Jasmine"
       ]
     },
@@ -2419,12 +2419,12 @@
       "plot_hint": "A contestant leverages an unconventional education to navigate a high-stakes quiz show.",
       "snippet_grading": 3,
       "film_options": [
-        "Precious: Based on the Novel 'Push' by Sapphire",
-        "The Departed",
+        "The Aviator",
         "The Constant Gardener",
-        "Dreamgirls",
+        "The Artist",
         "Slumdog Millionaire",
-        "Million Dollar Baby"
+        "Pollock",
+        "Argo"
       ]
     },
     {
@@ -2441,12 +2441,12 @@
       "plot_hint": "A series of increasingly improbable coincidences lead to a cash prize.",
       "snippet_grading": 3,
       "film_options": [
-        "Walk the Line",
-        "Black Swan",
-        "Monster",
-        "Slumdog Millionaire",
-        "Gravity",
-        "No Country for Old Men"
+        "The Aviator",
+        "Michael Clayton",
+        "Dreamgirls",
+        "The Departed",
+        "Brokeback Mountain",
+        "Slumdog Millionaire"
       ]
     },
     {
@@ -2464,11 +2464,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Slumdog Millionaire",
-        "Mystic River",
-        "No Country for Old Men",
-        "Capote",
-        "Training Day",
-        "12 Years a Slave"
+        "The Hurt Locker",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "Brokeback Mountain",
+        "Argo",
+        "Birdman or (The Unexpected Virtue of Ignorance)"
       ]
     },
     {
@@ -2488,12 +2488,12 @@
       "plot_hint": "A man experiences some minor inconveniences while planning a party.",
       "snippet_grading": 4,
       "film_options": [
-        "The Reader",
-        "Monster's Ball",
-        "Her",
-        "Little Miss Sunshine",
-        "Walk the Line",
-        "Milk"
+        "Midnight in Paris",
+        "Ray",
+        "Milk",
+        "Training Day",
+        "There Will Be Blood",
+        "The Hurt Locker"
       ]
     },
     {
@@ -2510,12 +2510,12 @@
       "plot_hint": "A man struggles to get his life together, despite the lifestyle he clearly enjoys living.",
       "snippet_grading": 3,
       "film_options": [
-        "Precious: Based on the Novel 'Push' by Sapphire",
         "Crazy Heart",
-        "Lincoln",
-        "The Last King of Scotland",
-        "Sideways",
-        "The Departed"
+        "Dallas Buyers Club",
+        "La La Land",
+        "Black Swan",
+        "Milk",
+        "The Iron Lady"
       ]
     },
     {
@@ -2535,12 +2535,12 @@
       "plot_hint": "A very enthusiastic man goes to great lengths to find a pen pal.",
       "snippet_grading": 3,
       "film_options": [
-        "Little Miss Sunshine",
+        "Capote",
+        "The Pianist",
+        "Beginners",
+        "Ray",
         "Inglourious Basterds",
-        "Million Dollar Baby",
-        "La Vie en Rose",
-        "Silver Linings Playbook",
-        "Three Billboards outside Ebbing, Missouri"
+        "Syriana"
       ]
     },
     {
@@ -2557,12 +2557,12 @@
       "plot_hint": "A woman with a knack for interior decorating decides to re-arrange someone's living space.",
       "snippet_grading": 3,
       "film_options": [
-        "Boyhood",
+        "Blue Jasmine",
+        "The Last King of Scotland",
         "The Blind Side",
-        "Precious: Based on the Novel 'Push' by Sapphire",
-        "The Help",
-        "The Queen",
-        "Silver Linings Playbook"
+        "Lincoln",
+        "The Artist",
+        "The Reader"
       ]
     },
     {
@@ -2579,12 +2579,12 @@
       "plot_hint": "A woman with a chaotic household struggles to make her daughter understand the importance of personal responsibility.",
       "snippet_grading": 4,
       "film_options": [
-        "The Reader",
-        "The Constant Gardener",
+        "La Vie en Rose",
+        "Dreamgirls",
+        "The Help",
+        "The Iron Lady",
         "Precious: Based on the Novel 'Push' by Sapphire",
-        "Les Misérables",
-        "Silver Linings Playbook",
-        "La Vie en Rose"
+        "The Queen"
       ]
     },
     {
@@ -2601,12 +2601,12 @@
       "plot_hint": "Someone has a really hard time adjusting to civilian life after a stressful job.",
       "snippet_grading": 3,
       "film_options": [
-        "Slumdog Millionaire",
+        "Spotlight",
+        "The King's Speech",
+        "No Country for Old Men",
+        "Argo",
         "The Hurt Locker",
-        "If Beale Street Could Talk",
-        "The Help",
-        "12 Years a Slave",
-        "No Country for Old Men"
+        "12 Years a Slave"
       ]
     },
     {
@@ -2625,12 +2625,12 @@
       "plot_hint": "A teenager's life is more complicated than her homework.",
       "snippet_grading": 3,
       "film_options": [
+        "No Country for Old Men",
+        "Darkest Hour",
         "Precious: Based on the Novel 'Push' by Sapphire",
-        "La Vie en Rose",
-        "The Imitation Game",
-        "The Reader",
-        "Million Dollar Baby",
-        "Slumdog Millionaire"
+        "Lincoln",
+        "Crazy Heart",
+        "The Social Network"
       ]
     },
     {
@@ -2647,12 +2647,12 @@
       "plot_hint": "It's just a job, what could possibly go wrong?",
       "snippet_grading": 3,
       "film_options": [
-        "The Reader",
-        "Million Dollar Baby",
-        "Django Unchained",
-        "Crash",
         "The Hurt Locker",
-        "The Blind Side"
+        "A Beautiful Mind",
+        "Her",
+        "Dreamgirls",
+        "Little Miss Sunshine",
+        "The Fighter"
       ]
     },
     {
@@ -2669,12 +2669,12 @@
       "plot_hint": "A public speaker overcomes some minor technical difficulties with his microphone.",
       "snippet_grading": 4,
       "film_options": [
-        "Syriana",
+        "Lincoln",
+        "The Revenant",
+        "The Last King of Scotland",
+        "Crazy Heart",
         "The King's Speech",
-        "No Country for Old Men",
-        "Milk",
-        "The Dark Knight",
-        "Capote"
+        "The Artist"
       ]
     },
     {
@@ -2691,11 +2691,11 @@
       "plot_hint": "A dedicated trainer prepares his brother for a career change, with mixed results.",
       "snippet_grading": 4,
       "film_options": [
-        "The Big Short",
-        "Beginners",
-        "Argo",
-        "The Father",
-        "Dallas Buyers Club",
+        "Milk",
+        "Inglourious Basterds",
+        "Ray",
+        "Lincoln",
+        "Django Unchained",
         "The Fighter"
       ]
     },
@@ -2713,12 +2713,12 @@
       "plot_hint": "A mother's attempt at tough love is, shall we say, misinterpreted by her sons.",
       "snippet_grading": 4,
       "film_options": [
-        "The Descendants",
-        "Argo",
-        "The Social Network",
+        "Dreamgirls",
+        "Silver Linings Playbook",
         "The Fighter",
-        "Boyhood",
-        "Les Misérables"
+        "Blue Jasmine",
+        "Room",
+        "The Constant Gardener"
       ]
     },
     {
@@ -2737,12 +2737,12 @@
       "plot_hint": "Someone helps their friend overcome a minor speaking problem so he can start a new job.",
       "snippet_grading": 4,
       "film_options": [
-        "The Imitation Game",
-        "Precious: Based on the Novel 'Push' by Sapphire",
+        "The Revenant",
         "The King's Speech",
-        "The Big Short",
-        "Brokeback Mountain",
-        "Slumdog Millionaire"
+        "Her",
+        "Midnight in Paris",
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "No Country for Old Men"
       ]
     },
     {
@@ -2759,12 +2759,12 @@
       "plot_hint": "Some people build a thing, other people try to take the thing, and then everyone sues everyone about the thing.",
       "snippet_grading": 3,
       "film_options": [
-        "Moonlight",
-        "Precious: Based on the Novel 'Push' by Sapphire",
+        "Django Unchained",
+        "The Departed",
         "The Social Network",
-        "The Descendants",
-        "Beginners",
-        "The Dark Knight"
+        "No Country for Old Men",
+        "The Dark Knight",
+        "Beginners"
       ]
     },
     {
@@ -2781,12 +2781,12 @@
       "plot_hint": "A man struggles to make a simple announcement, which is more difficult than it sounds.",
       "snippet_grading": 4,
       "film_options": [
-        "The Queen",
-        "Walk the Line",
-        "Juno",
-        "Black Swan",
+        "Crash",
+        "Syriana",
         "The King's Speech",
-        "Little Miss Sunshine"
+        "Little Miss Sunshine",
+        "Iris",
+        "Spotlight"
       ]
     },
     {
@@ -2803,12 +2803,12 @@
       "plot_hint": "A very expressive man learns the value of being a better listener.",
       "snippet_grading": 3,
       "film_options": [
-        "The Social Network",
-        "The Imitation Game",
-        "Manchester by the Sea",
         "The Revenant",
-        "The Big Short",
-        "The Artist"
+        "Manchester by the Sea",
+        "The Dark Knight",
+        "Little Miss Sunshine",
+        "The Artist",
+        "The Fighter"
       ]
     },
     {
@@ -2825,12 +2825,12 @@
       "plot_hint": "A retiree decides to explore a whole new world of hobbies, with minimal prior experience.",
       "snippet_grading": 4,
       "film_options": [
-        "Slumdog Millionaire",
-        "The Lord of the Rings: The Return of the King",
-        "Moonlight",
-        "The Fighter",
+        "Crazy Heart",
+        "No Country for Old Men",
+        "Capote",
+        "Django Unchained",
         "Beginners",
-        "Million Dollar Baby"
+        "The Artist"
       ]
     },
     {
@@ -2847,12 +2847,12 @@
       "plot_hint": "A woman finds that some people disagree with her management style.",
       "snippet_grading": 3,
       "film_options": [
-        "No Country for Old Men",
-        "Black Swan",
-        "The Artist",
-        "Argo",
-        "Blue Jasmine",
-        "The Iron Lady"
+        "La La Land",
+        "The Departed",
+        "The King's Speech",
+        "The Iron Lady",
+        "The Hurt Locker",
+        "Black Swan"
       ]
     },
     {
@@ -2869,12 +2869,12 @@
       "plot_hint": "A woman who struggles to maintain employment reveals her true feelings through the written word.",
       "snippet_grading": 3,
       "film_options": [
-        "The King's Speech",
+        "12 Years a Slave",
         "The Help",
-        "Dreamgirls",
-        "Gravity",
-        "The Shape of Water",
-        "Boyhood"
+        "Fences",
+        "Django Unchained",
+        "The Fighter",
+        "Three Billboards outside Ebbing, Missouri"
       ]
     },
     {
@@ -2891,12 +2891,12 @@
       "plot_hint": "A professional finds that the most novel way to get ahead is to simply stop talking.",
       "snippet_grading": 3,
       "film_options": [
+        "Les Misérables",
         "The Artist",
-        "Silver Linings Playbook",
-        "Blue Jasmine",
-        "Moonlight",
-        "Room",
-        "The Hurt Locker"
+        "The Help",
+        "12 Years a Slave",
+        "No Country for Old Men",
+        "The Fighter"
       ]
     },
     {
@@ -2915,12 +2915,12 @@
       "plot_hint": "Someone tries a new technology at work, and some people have very strong feelings about it.",
       "snippet_grading": 3,
       "film_options": [
-        "Life of Pi",
-        "Dallas Buyers Club",
-        "Million Dollar Baby",
-        "The Dark Knight",
-        "The Departed",
-        "The Artist"
+        "Moonlight",
+        "Argo",
+        "The Artist",
+        "12 Years a Slave",
+        "The Hurt Locker",
+        "Life of Pi"
       ]
     },
     {
@@ -2937,12 +2937,12 @@
       "plot_hint": "A family trip that, surprisingly, doesn't solve all their problems.",
       "snippet_grading": 3,
       "film_options": [
-        "Dallas Buyers Club",
+        "Crazy Heart",
+        "Moonlight",
         "The Descendants",
-        "Argo",
         "The Social Network",
-        "Milk",
-        "There Will Be Blood"
+        "There Will Be Blood",
+        "Lincoln"
       ]
     },
     {
@@ -2965,12 +2965,12 @@
       "plot_hint": "A meticulous individual attempts to mediate a difficult workplace dispute with some...strong opinions on the matter.",
       "snippet_grading": 4,
       "film_options": [
-        "The Help",
-        "Les Misérables",
-        "The Theory of Everything",
-        "The Danish Girl",
-        "Dallas Buyers Club",
-        "Lincoln"
+        "The Artist",
+        "12 Years a Slave",
+        "Lincoln",
+        "The King's Speech",
+        "Argo",
+        "Moonlight"
       ]
     },
     {
@@ -2989,12 +2989,12 @@
       "plot_hint": "An extremely polite dentist practices a novel form of dentistry.",
       "snippet_grading": 3,
       "film_options": [
+        "Life of Pi",
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "The Hurt Locker",
+        "Dallas Buyers Club",
         "Three Billboards outside Ebbing, Missouri",
-        "Django Unchained",
-        "The Fighter",
-        "Syriana",
-        "Beginners",
-        "Bridge of Spies"
+        "Django Unchained"
       ]
     },
     {
@@ -3011,12 +3011,12 @@
       "plot_hint": "A woman tries a novel form of couples therapy involving dance.",
       "snippet_grading": 3,
       "film_options": [
-        "The Iron Lady",
-        "The Fighter",
-        "Boyhood",
-        "If Beale Street Could Talk",
-        "Room",
-        "Silver Linings Playbook"
+        "Silver Linings Playbook",
+        "Blue Jasmine",
+        "The King's Speech",
+        "There Will Be Blood",
+        "Milk",
+        "La Vie en Rose"
       ]
     },
     {
@@ -3033,12 +3033,12 @@
       "plot_hint": "A factory worker experiences a significant career change, and it does not go well.",
       "snippet_grading": 3,
       "film_options": [
-        "The Revenant",
-        "The Fighter",
-        "The King's Speech",
-        "I, Tonya",
+        "Darkest Hour",
+        "Lincoln",
         "Les Misérables",
-        "The Last King of Scotland"
+        "Fences",
+        "12 Years a Slave",
+        "Milk"
       ]
     },
     {
@@ -3055,11 +3055,11 @@
       "plot_hint": "A group of unreliable narrators decide to put on a show, and somehow, it works out.",
       "snippet_grading": 3,
       "film_options": [
-        "The Iron Lady",
-        "No Country for Old Men",
-        "La Vie en Rose",
-        "The Artist",
-        "Room",
+        "Spotlight",
+        "Crazy Heart",
+        "Dallas Buyers Club",
+        "The Shape of Water",
+        "Lincoln",
         "Argo"
       ]
     },
@@ -3077,12 +3077,12 @@
       "plot_hint": "A young man's nautical adventure involves unexpectedly close proximity to a large feline.",
       "snippet_grading": 3,
       "film_options": [
-        "Django Unchained",
-        "Three Billboards outside Ebbing, Missouri",
-        "Life of Pi",
-        "No Country for Old Men",
         "Slumdog Millionaire",
-        "Everything Everywhere All at Once"
+        "The Iron Lady",
+        "Silver Linings Playbook",
+        "Life of Pi",
+        "The Shape of Water",
+        "Black Swan"
       ]
     },
     {
@@ -3099,12 +3099,12 @@
       "plot_hint": "A group of method actors go to great lengths for their roles, perhaps a little too far.",
       "snippet_grading": 3,
       "film_options": [
-        "Juno",
-        "Argo",
-        "Slumdog Millionaire",
-        "Call Me by Your Name",
-        "Midnight in Paris",
-        "Eternal Sunshine of the Spotless Mind"
+        "12 Years a Slave",
+        "Beginners",
+        "Three Billboards outside Ebbing, Missouri",
+        "The Descendants",
+        "Django Unchained",
+        "Argo"
       ]
     },
     {
@@ -3121,12 +3121,12 @@
       "plot_hint": "A dentist decides to change careers and help a freed slave find his wife.",
       "snippet_grading": 3,
       "film_options": [
-        "Django Unchained",
-        "Get Out",
-        "The King's Speech",
-        "Slumdog Millionaire",
+        "Boyhood",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "Manchester by the Sea",
+        "Les Misérables",
         "Milk",
-        "12 Years a Slave"
+        "Django Unchained"
       ]
     },
     {
@@ -3143,12 +3143,12 @@
       "plot_hint": "A charismatic entrepreneur has a new business idea.",
       "snippet_grading": 3,
       "film_options": [
-        "Manchester by the Sea",
-        "Crazy Heart",
-        "Midnight in Paris",
-        "The Hurt Locker",
-        "Birdman or (The Unexpected Virtue of Ignorance)",
-        "Dallas Buyers Club"
+        "Dallas Buyers Club",
+        "The Iron Lady",
+        "The Theory of Everything",
+        "The Reader",
+        "La La Land",
+        "Milk"
       ]
     },
     {
@@ -3165,12 +3165,12 @@
       "plot_hint": "A flamboyant individual navigates the healthcare system with unexpected business acumen.",
       "snippet_grading": 3,
       "film_options": [
-        "If Beale Street Could Talk",
-        "The Fighter",
-        "Moonlight",
+        "The Dark Knight",
+        "Life of Pi",
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Green Book",
         "Dallas Buyers Club",
-        "I, Tonya",
-        "Boyhood"
+        "The King's Speech"
       ]
     },
     {
@@ -3187,12 +3187,12 @@
       "plot_hint": "A woman experiences a slight downgrade in lifestyle and has difficulty adjusting.",
       "snippet_grading": 4,
       "film_options": [
-        "There Will Be Blood",
+        "Still Alice",
+        "Boyhood",
+        "Les Misérables",
         "Blue Jasmine",
-        "Silver Linings Playbook",
-        "The Iron Lady",
-        "Crazy Heart",
-        "Capote"
+        "Room",
+        "Fences"
       ]
     },
     {
@@ -3211,12 +3211,12 @@
       "plot_hint": "An abused worker finally pushes back on her boss in an unexpected way.",
       "snippet_grading": 4,
       "film_options": [
-        "The King's Speech",
         "Precious: Based on the Novel 'Push' by Sapphire",
-        "Nomadland",
-        "Spotlight",
-        "12 Years a Slave",
-        "The Danish Girl"
+        "Joker",
+        "Bohemian Rhapsody",
+        "Manchester by the Sea",
+        "The Danish Girl",
+        "12 Years a Slave"
       ]
     },
     {
@@ -3233,12 +3233,12 @@
       "plot_hint": "A long vacation takes an unexpected detour into the gig economy.",
       "snippet_grading": 4,
       "film_options": [
-        "The Hurt Locker",
-        "Roma",
+        "BlacKkKlansman",
+        "The Big Short",
         "12 Years a Slave",
-        "Slumdog Millionaire",
-        "Gravity",
-        "Spotlight"
+        "Women Talking",
+        "The Hurt Locker",
+        "The Artist"
       ]
     },
     {
@@ -3257,12 +3257,12 @@
       "plot_hint": "An office worker has a really, really bad day at work when some things go missing.",
       "snippet_grading": 3,
       "film_options": [
-        "Dallas Buyers Club",
-        "Life of Pi",
+        "Roma",
+        "Walk the Line",
+        "The Shape of Water",
+        "The Blind Side",
         "Gravity",
-        "The King's Speech",
-        "The Theory of Everything",
-        "The Revenant"
+        "The Reader"
       ]
     },
     {
@@ -3279,12 +3279,12 @@
       "plot_hint": "A business trip goes horribly, horribly wrong and becomes a permanent relocation.",
       "snippet_grading": 3,
       "film_options": [
-        "Room",
-        "La La Land",
-        "12 Years a Slave",
         "Silver Linings Playbook",
-        "The Descendants",
-        "The Imitation Game"
+        "12 Years a Slave",
+        "The Queen",
+        "The Social Network",
+        "Black Swan",
+        "Precious: Based on the Novel 'Push' by Sapphire"
       ]
     },
     {
@@ -3301,12 +3301,12 @@
       "plot_hint": "A brilliant mind finds new ways to communicate, while grappling with progressively inconvenient physical limitations.",
       "snippet_grading": 3,
       "film_options": [
+        "Green Book",
+        "Everything Everywhere All at Once",
+        "Lincoln",
         "The Theory of Everything",
-        "Spotlight",
-        "The Hurt Locker",
-        "The Revenant",
-        "Bohemian Rhapsody",
-        "Birdman or (The Unexpected Virtue of Ignorance)"
+        "Moonlight",
+        "Manchester by the Sea"
       ]
     },
     {
@@ -3323,12 +3323,12 @@
       "plot_hint": "A professor has a few memory issues and it slightly inconveniences her family.",
       "snippet_grading": 3,
       "film_options": [
-        "The Theory of Everything",
-        "Darkest Hour",
-        "Still Alice",
-        "Joker",
         "Black Swan",
-        "Room"
+        "Marriage Story",
+        "Still Alice",
+        "The Holdovers",
+        "Emilia Pérez",
+        "The Favourite"
       ]
     },
     {
@@ -3345,12 +3345,12 @@
       "plot_hint": "A parent navigates the trials and tribulations of being an adult while also raising children, which is harder than it looks.",
       "snippet_grading": 4,
       "film_options": [
-        "The Fighter",
-        "Les Misérables",
-        "Manchester by the Sea",
-        "Dallas Buyers Club",
-        "The Artist",
-        "Boyhood"
+        "Room",
+        "12 Years a Slave",
+        "The Help",
+        "Silver Linings Playbook",
+        "Boyhood",
+        "The Blind Side"
       ]
     },
     {
@@ -3367,12 +3367,12 @@
       "plot_hint": "A man attempts a comeback, and finds that his career is not the only thing in freefall.",
       "snippet_grading": 3,
       "film_options": [
-        "Midnight in Paris",
-        "Her",
-        "Spotlight",
+        "Call Me by Your Name",
+        "12 Years a Slave",
+        "CODA",
+        "The Imitation Game",
         "Birdman or (The Unexpected Virtue of Ignorance)",
-        "The Hurt Locker",
-        "Green Book"
+        "The Hurt Locker"
       ]
     },
     {
@@ -3389,12 +3389,12 @@
       "plot_hint": "A man attempts to put on a play, and some things go... less than perfectly.",
       "snippet_grading": 4,
       "film_options": [
+        "The Theory of Everything",
+        "The Artist",
+        "Capote",
         "The Shape of Water",
-        "Nomadland",
-        "La La Land",
         "Birdman or (The Unexpected Virtue of Ignorance)",
-        "Still Alice",
-        "The Favourite"
+        "Crazy Heart"
       ]
     },
     {
@@ -3413,12 +3413,12 @@
       "plot_hint": "A man tries to build a really complicated machine, and then some people get upset about it.",
       "snippet_grading": 5,
       "film_options": [
-        "The Favourite",
-        "The Big Short",
-        "La La Land",
-        "Jojo Rabbit",
         "The Imitation Game",
-        "Room"
+        "Argo",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "12 Years a Slave",
+        "Fences",
+        "The Danish Girl"
       ]
     },
     {
@@ -3437,12 +3437,12 @@
       "plot_hint": "A really dedicated outdoorsman has a slightly disappointing camping trip.",
       "snippet_grading": 4,
       "film_options": [
-        "Jojo Rabbit",
-        "The Artist",
+        "Still Alice",
+        "Silver Linings Playbook",
+        "The Revenant",
         "Lincoln",
-        "Moonlight",
-        "Call Me by Your Name",
-        "The Revenant"
+        "Manchester by the Sea",
+        "Room"
       ]
     },
     {
@@ -3461,12 +3461,12 @@
       "plot_hint": "A quiet man demonstrates the importance of good penmanship and stubbornness in international relations.",
       "snippet_grading": 3,
       "film_options": [
-        "Once upon a Time...in Hollywood",
-        "Judas and the Black Messiah",
         "Bridge of Spies",
-        "Spotlight",
-        "The Shape of Water",
-        "Nomadland"
+        "Fences",
+        "Dallas Buyers Club",
+        "Les Misérables",
+        "Moonlight",
+        "The Help"
       ]
     },
     {
@@ -3483,12 +3483,12 @@
       "plot_hint": "A supportive spouse navigates their partner's career change with maybe a little bit more grace than anyone could reasonably expect.",
       "snippet_grading": 3,
       "film_options": [
-        "Spotlight",
-        "Fences",
-        "Parasite",
-        "Boyhood",
-        "Birdman or (The Unexpected Virtue of Ignorance)",
-        "The Danish Girl"
+        "The Danish Girl",
+        "Marriage Story",
+        "Nomadland",
+        "Judy",
+        "The Favourite",
+        "Minari"
       ]
     },
     {
@@ -3505,12 +3505,12 @@
       "plot_hint": "A group of meticulous researchers uncover something that probably should have been discovered a long time ago.",
       "snippet_grading": 4,
       "film_options": [
+        "Midnight in Paris",
         "The Shape of Water",
+        "Green Book",
+        "Manchester by the Sea",
         "Spotlight",
-        "Roma",
-        "La La Land",
-        "Everything Everywhere All at Once",
-        "The King's Speech"
+        "Juno"
       ]
     },
     {
@@ -3527,12 +3527,12 @@
       "plot_hint": "A manager oversees a challenging team-building exercise with some severe HR implications.",
       "snippet_grading": 3,
       "film_options": [
-        "Roma",
-        "12 Years a Slave",
-        "The Social Network",
+        "Green Book",
         "The Revenant",
-        "The Imitation Game",
-        "Nomadland"
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Once upon a Time...in Hollywood",
+        "Oppenheimer",
+        "The King's Speech"
       ]
     },
     {
@@ -3549,12 +3549,12 @@
       "plot_hint": "Some guys read the fine print and then some truly unprecedented stuff happens.",
       "snippet_grading": 4,
       "film_options": [
-        "The Holdovers",
-        "Minari",
-        "The Imitation Game",
+        "Moonlight",
+        "La La Land",
+        "The Eyes of Tammy Faye",
         "The Big Short",
-        "Jojo Rabbit",
-        "Fences"
+        "Argo",
+        "Blue Jasmine"
       ]
     },
     {
@@ -3571,12 +3571,12 @@
       "plot_hint": "A group of people try to remember something, and then are a bit bothered by what they find.",
       "snippet_grading": 3,
       "film_options": [
-        "Blue Jasmine",
-        "The Favourite",
-        "Spotlight",
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "The Theory of Everything",
+        "Milk",
         "Her",
-        "Get Out",
-        "Everything Everywhere All at Once"
+        "The Artist",
+        "Spotlight"
       ]
     },
     {
@@ -3593,12 +3593,12 @@
       "plot_hint": "A handyman is asked to do slightly more than fix a leaky faucet.",
       "snippet_grading": 3,
       "film_options": [
-        "Room",
-        "La La Land",
+        "The Imitation Game",
+        "The Father",
+        "The Revenant",
+        "Call Me by Your Name",
         "Manchester by the Sea",
-        "Blue Jasmine",
-        "Joker",
-        "King Richard"
+        "The Descendants"
       ]
     },
     {
@@ -3615,12 +3615,12 @@
       "plot_hint": "A friendly face imparts wisdom while subtly navigating a complex legal situation.",
       "snippet_grading": 3,
       "film_options": [
-        "The Whale",
-        "King Richard",
-        "Green Book",
+        "Dallas Buyers Club",
+        "The Iron Lady",
+        "Three Billboards outside Ebbing, Missouri",
         "Moonlight",
-        "Bohemian Rhapsody",
-        "Three Billboards outside Ebbing, Missouri"
+        "Room",
+        "Judy"
       ]
     },
     {
@@ -3637,12 +3637,12 @@
       "plot_hint": "A struggling entrepreneur has some difficulties pivoting her product line.",
       "snippet_grading": 3,
       "film_options": [
-        "The Imitation Game",
-        "BlacKkKlansman",
-        "The Favourite",
+        "Three Billboards outside Ebbing, Missouri",
+        "The Iron Lady",
         "La La Land",
-        "Judy",
-        "Jojo Rabbit"
+        "The Imitation Game",
+        "Argo",
+        "The Social Network"
       ]
     },
     {
@@ -3659,12 +3659,12 @@
       "plot_hint": "A woman politely asks for something she's been promised, and is met with the level of enthusiasm one might expect.",
       "snippet_grading": 4,
       "film_options": [
+        "Moonlight",
+        "West Side Story",
+        "Green Book",
+        "Judas and the Black Messiah",
         "Fences",
-        "The Power of the Dog",
-        "Les Misérables",
-        "Everything Everywhere All at Once",
-        "Boyhood",
-        "La La Land"
+        "The Danish Girl"
       ]
     },
     {
@@ -3699,12 +3699,12 @@
       "plot_hint": "A story of a boy's life, told in three acts.",
       "snippet_grading": 5,
       "film_options": [
-        "Spotlight",
-        "The Help",
-        "Marriage Story",
-        "Fences",
-        "Moonlight",
-        "Nomadland"
+        "Jojo Rabbit",
+        "American Fiction",
+        "CODA",
+        "Parasite",
+        "Conclave",
+        "Moonlight"
       ]
     },
     {
@@ -3721,12 +3721,12 @@
       "plot_hint": "A young professional finds that dating can be complicated when you're both trying to make a name for yourselves.",
       "snippet_grading": 3,
       "film_options": [
-        "Oppenheimer",
-        "The Revenant",
-        "Once upon a Time...in Hollywood",
+        "Precious: Based on the Novel 'Push' by Sapphire",
+        "Gravity",
+        "Argo",
+        "Birdman or (The Unexpected Virtue of Ignorance)",
         "La La Land",
-        "The Shape of Water",
-        "Green Book"
+        "The Imitation Game"
       ]
     },
     {
@@ -3743,12 +3743,12 @@
       "plot_hint": "A quiet journey of self-discovery involving some turbulent weather and awkward encounters.",
       "snippet_grading": 4,
       "film_options": [
-        "CODA",
-        "The Father",
-        "Argo",
+        "Jojo Rabbit",
         "Moonlight",
-        "Bohemian Rhapsody",
-        "Darkest Hour"
+        "King Richard",
+        "Darkest Hour",
+        "Call Me by Your Name",
+        "The Whale"
       ]
     },
     {
@@ -3765,12 +3765,12 @@
       "plot_hint": "A man with a demanding job has to navigate some interpersonal issues.",
       "snippet_grading": 4,
       "film_options": [
-        "Manchester by the Sea",
-        "Dallas Buyers Club",
-        "Darkest Hour",
         "Everything Everywhere All at Once",
-        "A Real Pain",
-        "Green Book"
+        "Manchester by the Sea",
+        "Joker",
+        "Once upon a Time...in Hollywood",
+        "Three Billboards outside Ebbing, Missouri",
+        "Darkest Hour"
       ]
     },
     {
@@ -3788,11 +3788,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Three Billboards outside Ebbing, Missouri",
-        "Oppenheimer",
-        "Parasite",
-        "Green Book",
-        "Bridge of Spies",
-        "CODA"
+        "CODA",
+        "The Revenant",
+        "The Theory of Everything",
+        "Django Unchained",
+        "Bohemian Rhapsody"
       ]
     },
     {
@@ -3809,12 +3809,12 @@
       "plot_hint": "A grieving parent rents some advertising space to express her feelings.",
       "snippet_grading": 3,
       "film_options": [
-        "Judas and the Black Messiah",
-        "CODA",
+        "Darkest Hour",
+        "Lincoln",
+        "Judy",
+        "Nomadland",
         "Three Billboards outside Ebbing, Missouri",
-        "The Favourite",
-        "La La Land",
-        "Moonlight"
+        "Dallas Buyers Club"
       ]
     },
     {
@@ -3831,12 +3831,12 @@
       "plot_hint": "A mother expresses her love by ensuring her daughter understands the fine art of aggression.",
       "snippet_grading": 3,
       "film_options": [
-        "Minari",
-        "Moonlight",
+        "12 Years a Slave",
+        "Les Misérables",
+        "The Danish Girl",
+        "If Beale Street Could Talk",
         "I, Tonya",
-        "The Shape of Water",
-        "West Side Story",
-        "Spotlight"
+        "Fences"
       ]
     },
     {
@@ -3853,12 +3853,12 @@
       "plot_hint": "A government employee experiments with a new 'bring your pet to work' policy, with unforeseen consequences.",
       "snippet_grading": 4,
       "film_options": [
-        "Roma",
-        "Oppenheimer",
-        "Parasite",
-        "The Shape of Water",
+        "Green Book",
+        "The Revenant",
         "Everything Everywhere All at Once",
-        "Spotlight"
+        "The Theory of Everything",
+        "The Shape of Water",
+        "The King's Speech"
       ]
     },
     {
@@ -3875,12 +3875,12 @@
       "plot_hint": "Someone attempts an unusual workplace romance amid some company restructuring.",
       "snippet_grading": 4,
       "film_options": [
-        "Les Misérables",
-        "12 Years a Slave",
+        "Belfast",
+        "Get Out",
         "The Shape of Water",
-        "The Danish Girl",
-        "La La Land",
-        "The Revenant"
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Spotlight",
+        "Nomadland"
       ]
     },
     {
@@ -3897,12 +3897,12 @@
       "plot_hint": "A summer vacation leads to some unexpected personal growth, and also a book deal.",
       "snippet_grading": 3,
       "film_options": [
-        "The Shape of Water",
-        "BlacKkKlansman",
-        "Life of Pi",
         "Call Me by Your Name",
+        "BlacKkKlansman",
+        "Once upon a Time...in Hollywood",
+        "Judas and the Black Messiah",
         "The Father",
-        "The Hurt Locker"
+        "Moonlight"
       ]
     },
     {
@@ -3919,12 +3919,12 @@
       "plot_hint": "A house party takes a turn for the worse when some of the guests exhibit questionable manners.",
       "snippet_grading": 4,
       "film_options": [
-        "Promising Young Woman",
         "Get Out",
-        "Everything Everywhere All at Once",
-        "Fences",
-        "West Side Story",
-        "Minari"
+        "Green Book",
+        "The Eyes of Tammy Faye",
+        "Her",
+        "Judy",
+        "Poor Things"
       ]
     },
     {
@@ -3943,12 +3943,12 @@
       "plot_hint": "A talented individual experiences some minor interpersonal difficulties while trying to put on a show.",
       "snippet_grading": 4,
       "film_options": [
-        "Moonlight",
-        "The Theory of Everything",
-        "Bohemian Rhapsody",
-        "CODA",
+        "Marriage Story",
+        "Minari",
         "King Richard",
-        "Jojo Rabbit"
+        "West Side Story",
+        "Bohemian Rhapsody",
+        "Manchester by the Sea"
       ]
     },
     {
@@ -3965,12 +3965,12 @@
       "plot_hint": "An easily annoyed concert pianist experiences the joys of automobile travel.",
       "snippet_grading": 3,
       "film_options": [
-        "CODA",
-        "La La Land",
-        "The Iron Lady",
-        "Still Alice",
-        "Three Billboards outside Ebbing, Missouri",
-        "Green Book"
+        "Green Book",
+        "Dallas Buyers Club",
+        "Manchester by the Sea",
+        "Once upon a Time...in Hollywood",
+        "King Richard",
+        "Everything Everywhere All at Once"
       ]
     },
     {
@@ -3988,11 +3988,11 @@
       "snippet_grading": 4,
       "film_options": [
         "The Favourite",
-        "Judas and the Black Messiah",
+        "Anatomy of a Fall",
+        "Nomadland",
+        "Promising Young Woman",
         "Everything Everywhere All at Once",
-        "Three Billboards outside Ebbing, Missouri",
-        "Still Alice",
-        "Nomadland"
+        "Parasite"
       ]
     },
     {
@@ -4009,11 +4009,11 @@
       "plot_hint": "A supportive family member goes to great lengths to help someone get a new apartment.",
       "snippet_grading": 3,
       "film_options": [
-        "Marriage Story",
-        "12 Years a Slave",
-        "The Big Short",
-        "BlacKkKlansman",
-        "Fences",
+        "Lincoln",
+        "The Theory of Everything",
+        "West Side Story",
+        "The Revenant",
+        "Everything Everywhere All at Once",
         "If Beale Street Could Talk"
       ]
     },
@@ -4031,11 +4031,11 @@
       "plot_hint": "An unconventional working relationship blossoms despite initial cultural differences and driving-related disagreements.",
       "snippet_grading": 3,
       "film_options": [
-        "CODA",
-        "Spotlight",
-        "12 Years a Slave",
+        "The Hurt Locker",
+        "Nomadland",
+        "The Shape of Water",
+        "Moonlight",
         "Birdman or (The Unexpected Virtue of Ignorance)",
-        "The King's Speech",
         "Green Book"
       ]
     },
@@ -4053,12 +4053,12 @@
       "plot_hint": "Someone has a really, really bad day at work, and then things get worse.",
       "snippet_grading": 4,
       "film_options": [
-        "The Theory of Everything",
         "Roma",
-        "Parasite",
-        "Oppenheimer",
-        "Crazy Heart",
-        "Manchester by the Sea"
+        "The Power of the Dog",
+        "I, Tonya",
+        "The Danish Girl",
+        "Fences",
+        "Gravity"
       ]
     },
     {
@@ -4075,12 +4075,12 @@
       "plot_hint": "An unorthodox application of HR practices leads to some interesting workplace dynamics.",
       "snippet_grading": 4,
       "film_options": [
-        "Darkest Hour",
         "BlacKkKlansman",
-        "The Imitation Game",
-        "Moonlight",
         "Joker",
-        "Manchester by the Sea"
+        "CODA",
+        "Women Talking",
+        "Oppenheimer",
+        "The Whale"
       ]
     },
     {
@@ -4097,12 +4097,12 @@
       "plot_hint": "A struggling comedian goes through some truly relatable workplace challenges.",
       "snippet_grading": 4,
       "film_options": [
-        "Jojo Rabbit",
         "Joker",
-        "Darkest Hour",
-        "King Richard",
-        "Moonlight",
-        "The Imitation Game"
+        "The Theory of Everything",
+        "Minari",
+        "The Whale",
+        "I, Tonya",
+        "The Danish Girl"
       ]
     },
     {
@@ -4121,11 +4121,11 @@
       "plot_hint": "A driver who takes his job responsibilities very seriously, perhaps a little too seriously, all things considered.",
       "snippet_grading": 4,
       "film_options": [
-        "Marriage Story",
-        "Judas and the Black Messiah",
-        "If Beale Street Could Talk",
-        "Everything Everywhere All at Once",
-        "The Holdovers",
+        "Manchester by the Sea",
+        "The Brutalist",
+        "The Father",
+        "Oppenheimer",
+        "A Real Pain",
         "Once upon a Time...in Hollywood"
       ]
     },
@@ -4147,12 +4147,12 @@
       "plot_hint": "A performer experiences some pretty standard workplace disagreements.",
       "snippet_grading": 3,
       "film_options": [
-        "Judy",
-        "Spotlight",
-        "Everything Everywhere All at Once",
-        "CODA",
-        "The Shape of Water",
-        "Poor Things"
+        "The Help",
+        "Still Alice",
+        "Fences",
+        "West Side Story",
+        "The Eyes of Tammy Faye",
+        "Judy"
       ]
     },
     {
@@ -4171,12 +4171,12 @@
       "plot_hint": "A high-powered individual shares her thoughts on gender roles.",
       "snippet_grading": 3,
       "film_options": [
+        "Minari",
+        "Anora",
         "Marriage Story",
-        "The Big Short",
-        "The Social Network",
-        "Everything Everywhere All at Once",
-        "The Holdovers",
-        "Argo"
+        "Nomadland",
+        "Boyhood",
+        "Judy"
       ]
     },
     {
@@ -4195,12 +4195,12 @@
       "plot_hint": "Some new service industry workers are just trying to make a name for themselves by networking.",
       "snippet_grading": 3,
       "film_options": [
-        "Birdman or (The Unexpected Virtue of Ignorance)",
-        "A Real Pain",
-        "Parasite",
-        "The Shape of Water",
-        "CODA",
-        "Once upon a Time...in Hollywood"
+        "Joker",
+        "Green Book",
+        "Darkest Hour",
+        "The Whale",
+        "Nomadland",
+        "Parasite"
       ]
     },
     {
@@ -4217,12 +4217,12 @@
       "plot_hint": "A family gets a little too invested in their friends' home improvement projects.",
       "snippet_grading": 4,
       "film_options": [
-        "Anora",
-        "CODA",
-        "Three Billboards outside Ebbing, Missouri",
-        "Parasite",
-        "The Revenant",
-        "Green Book"
+        "Nomadland",
+        "The Holdovers",
+        "Minari",
+        "The Power of the Dog",
+        "If Beale Street Could Talk",
+        "Parasite"
       ]
     },
     {
@@ -4239,12 +4239,12 @@
       "plot_hint": "An unconventional friendship blossoms amidst a backdrop of questionable interior design choices.",
       "snippet_grading": 4,
       "film_options": [
-        "Moonlight",
-        "Judas and the Black Messiah",
-        "The Imitation Game",
+        "I, Tonya",
+        "The Father",
+        "West Side Story",
         "Jojo Rabbit",
         "CODA",
-        "Once upon a Time...in Hollywood"
+        "If Beale Street Could Talk"
       ]
     },
     {
@@ -4263,12 +4263,12 @@
       "plot_hint": "Sometimes, a new job really can change your life, and also your address, permanently.",
       "snippet_grading": 3,
       "film_options": [
-        "A Real Pain",
-        "Manchester by the Sea",
-        "Oppenheimer",
+        "Darkest Hour",
+        "Promising Young Woman",
+        "Bohemian Rhapsody",
+        "The Theory of Everything",
         "Parasite",
-        "Spotlight",
-        "Everything Everywhere All at Once"
+        "Green Book"
       ]
     },
     {
@@ -4287,12 +4287,12 @@
       "plot_hint": "A charismatic public speaker learns about the pitfalls of trusting new acquaintances.",
       "snippet_grading": 4,
       "film_options": [
-        "CODA",
-        "Call Me by Your Name",
-        "BlacKkKlansman",
+        "Fences",
         "Three Billboards outside Ebbing, Missouri",
+        "Everything Everywhere All at Once",
+        "Minari",
         "Judas and the Black Messiah",
-        "Jojo Rabbit"
+        "Once upon a Time...in Hollywood"
       ]
     },
     {
@@ -4309,12 +4309,12 @@
       "plot_hint": "A woman embarks on an unconventional road trip and discovers her house had some plumbing issues, apparently.",
       "snippet_grading": 3,
       "film_options": [
+        "The Favourite",
+        "Everything Everywhere All at Once",
+        "The Holdovers",
         "Nomadland",
-        "The Father",
-        "BlacKkKlansman",
-        "Women Talking",
-        "The Eyes of Tammy Faye",
-        "Everything Everywhere All at Once"
+        "Anora",
+        "Emilia Pérez"
       ]
     },
     {
@@ -4331,12 +4331,12 @@
       "plot_hint": "A woman moves in with her family and things immediately get more complicated, to put it mildly.",
       "snippet_grading": 4,
       "film_options": [
-        "Everything Everywhere All at Once",
-        "Nomadland",
+        "Argo",
+        "The Holdovers",
+        "Fences",
         "Minari",
-        "Spotlight",
-        "Emilia Pérez",
-        "Green Book"
+        "Moonlight",
+        "Spotlight"
       ]
     },
     {
@@ -4353,12 +4353,12 @@
       "plot_hint": "A woman embarks on a road trip, encountering various locations and individuals, mostly because she is in between leases.",
       "snippet_grading": 3,
       "film_options": [
-        "Everything Everywhere All at Once",
+        "Argo",
+        "The Descendants",
         "Nomadland",
-        "Green Book",
-        "Promising Young Woman",
-        "Belfast",
-        "CODA"
+        "Anora",
+        "Moonlight",
+        "The Big Short"
       ]
     },
     {
@@ -4375,12 +4375,12 @@
       "plot_hint": "Someone takes an alternative approach to downsizing.",
       "snippet_grading": 4,
       "film_options": [
-        "The Power of the Dog",
-        "Bridge of Spies",
-        "Once upon a Time...in Hollywood",
-        "Everything Everywhere All at Once",
-        "Nomadland",
-        "Judas and the Black Messiah"
+        "Promising Young Woman",
+        "La La Land",
+        "Belfast",
+        "Manchester by the Sea",
+        "Roma",
+        "Nomadland"
       ]
     },
     {
@@ -4401,12 +4401,12 @@
       "plot_hint": "A man struggles to remember where he left his keys, and also several decades of his life.",
       "snippet_grading": 3,
       "film_options": [
-        "La La Land",
-        "Judy",
-        "Women Talking",
-        "Conclave",
+        "Marriage Story",
+        "Minari",
         "The Father",
-        "The Eyes of Tammy Faye"
+        "Emilia Pérez",
+        "Conclave",
+        "Jojo Rabbit"
       ]
     },
     {
@@ -4423,12 +4423,12 @@
       "plot_hint": "A woman tries to get over a personal tragedy by undertaking a series of, shall we say, 'learning experiences'.",
       "snippet_grading": 3,
       "film_options": [
-        "Promising Young Woman",
-        "Belfast",
-        "The Shape of Water",
-        "Everything Everywhere All at Once",
-        "The Power of the Dog",
-        "Parasite"
+        "The Father",
+        "Darkest Hour",
+        "Manchester by the Sea",
+        "Anatomy of a Fall",
+        "Joker",
+        "Promising Young Woman"
       ]
     },
     {
@@ -4449,12 +4449,12 @@
       "plot_hint": "An overzealous stage dad just wants his kids to get some exercise.",
       "snippet_grading": 4,
       "film_options": [
+        "The Whale",
+        "Moonlight",
         "Bohemian Rhapsody",
-        "Joker",
-        "Manchester by the Sea",
-        "Darkest Hour",
-        "The Father",
-        "King Richard"
+        "Once upon a Time...in Hollywood",
+        "King Richard",
+        "Judas and the Black Messiah"
       ]
     },
     {
@@ -4475,12 +4475,12 @@
       "plot_hint": "A father learns to let go, or at least communicate more effectively from a distance.",
       "snippet_grading": 3,
       "film_options": [
-        "12 Years a Slave",
-        "Three Billboards outside Ebbing, Missouri",
-        "Parasite",
-        "The Shape of Water",
+        "Everything Everywhere All at Once",
         "CODA",
-        "Moonlight"
+        "Conclave",
+        "A Real Pain",
+        "BlacKkKlansman",
+        "American Fiction"
       ]
     },
     {
@@ -4499,12 +4499,12 @@
       "plot_hint": "A woman with a distinctive look attempts to spread a message of acceptance, with mixed results.",
       "snippet_grading": 4,
       "film_options": [
-        "Once upon a Time...in Hollywood",
         "The Eyes of Tammy Faye",
-        "Judas and the Black Messiah",
-        "Nomadland",
-        "Judy",
-        "CODA"
+        "Marriage Story",
+        "Anora",
+        "La La Land",
+        "The Holdovers",
+        "Minari"
       ]
     },
     {
@@ -4524,12 +4524,12 @@
       "plot_hint": "A supportive friend offers some sage advice on dating, but it doesn't exactly stick.",
       "snippet_grading": 3,
       "film_options": [
-        "Moonlight",
-        "Minari",
-        "Dallas Buyers Club",
-        "Everything Everywhere All at Once",
+        "The Revenant",
         "West Side Story",
-        "Bridge of Spies"
+        "I, Tonya",
+        "King Richard",
+        "Everything Everywhere All at Once",
+        "Darkest Hour"
       ]
     },
     {
@@ -4546,12 +4546,12 @@
       "plot_hint": "A mediator finds herself in the unenviable position of having to translate between two very different worlds, one of which involves musical theatre.",
       "snippet_grading": 3,
       "film_options": [
-        "Bridge of Spies",
-        "Once upon a Time...in Hollywood",
-        "Anora",
-        "A Real Pain",
+        "Parasite",
+        "The Father",
+        "The Shape of Water",
+        "American Fiction",
         "CODA",
-        "Oppenheimer"
+        "Conclave"
       ]
     },
     {
@@ -4568,12 +4568,12 @@
       "plot_hint": "Sometimes, family businesses have communication issues, and that's before anyone starts singing.",
       "snippet_grading": 3,
       "film_options": [
-        "Oppenheimer",
-        "The Shape of Water",
-        "Jojo Rabbit",
-        "CODA",
+        "Judy",
         "Conclave",
-        "The Power of the Dog"
+        "CODA",
+        "The Favourite",
+        "Blue Jasmine",
+        "American Fiction"
       ]
     },
     {
@@ -4593,11 +4593,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Green Book",
-        "Manchester by the Sea",
+        "Call Me by Your Name",
+        "Moonlight",
         "Belfast",
-        "Roma",
-        "Nomadland",
-        "The Shape of Water"
+        "Parasite",
+        "The Imitation Game"
       ]
     },
     {
@@ -4617,12 +4617,12 @@
       "plot_hint": "A professor attempts to hold an office hours with a very, very small attendance rate.",
       "snippet_grading": 3,
       "film_options": [
-        "The Whale",
-        "The Imitation Game",
-        "Moonlight",
-        "Bohemian Rhapsody",
-        "BlacKkKlansman",
-        "King Richard"
+        "Anatomy of a Fall",
+        "King Richard",
+        "Belfast",
+        "Darkest Hour",
+        "Promising Young Woman",
+        "The Whale"
       ]
     },
     {
@@ -4639,12 +4639,12 @@
       "plot_hint": "A man rediscovers the diverse career paths he could have taken, and it turns out he was really good at all of them.",
       "snippet_grading": 5,
       "film_options": [
-        "Oppenheimer",
+        "Judas and the Black Messiah",
+        "Nomadland",
+        "Room",
+        "Green Book",
         "Three Billboards outside Ebbing, Missouri",
-        "Darkest Hour",
-        "Everything Everywhere All at Once",
-        "The Theory of Everything",
-        "The Whale"
+        "Everything Everywhere All at Once"
       ]
     },
     {
@@ -4661,12 +4661,12 @@
       "plot_hint": "A stressed business owner attends an unconventional seminar that drastically alters her perspective on filing taxes.",
       "snippet_grading": 4,
       "film_options": [
-        "King Richard",
-        "Oppenheimer",
-        "The Whale",
-        "Poor Things",
+        "The Theory of Everything",
         "Everything Everywhere All at Once",
-        "Nomadland"
+        "Poor Things",
+        "Darkest Hour",
+        "King Richard",
+        "The Eyes of Tammy Faye"
       ]
     },
     {
@@ -4687,12 +4687,12 @@
       "plot_hint": "A tax auditor with a truly unique sense of style experiences some workplace dissatisfaction.",
       "snippet_grading": 3,
       "film_options": [
-        "Minari",
+        "The Favourite",
+        "The Holdovers",
+        "The Eyes of Tammy Faye",
         "Everything Everywhere All at Once",
-        "12 Years a Slave",
         "West Side Story",
-        "Moonlight",
-        "Call Me by Your Name"
+        "Three Billboards outside Ebbing, Missouri"
       ]
     },
     {
@@ -4709,12 +4709,12 @@
       "plot_hint": "A tax audit spirals wildly out of control, leading to some interdimensional family therapy.",
       "snippet_grading": 4,
       "film_options": [
-        "Get Out",
-        "Everything Everywhere All at Once",
         "Green Book",
-        "Promising Young Woman",
+        "Everything Everywhere All at Once",
+        "Judy",
         "The Shape of Water",
-        "Anatomy of a Fall"
+        "La La Land",
+        "The Eyes of Tammy Faye"
       ]
     },
     {
@@ -4731,12 +4731,12 @@
       "plot_hint": "A mother-daughter relationship experiences some minor turbulence across the multiverse.",
       "snippet_grading": 3,
       "film_options": [
-        "Anora",
-        "Parasite",
         "Everything Everywhere All at Once",
+        "Anora",
+        "The Shape of Water",
+        "The Power of the Dog",
         "Belfast",
-        "Oppenheimer",
-        "The Shape of Water"
+        "Anatomy of a Fall"
       ]
     },
     {
@@ -4753,12 +4753,12 @@
       "plot_hint": "A book club meeting gets slightly out of hand.",
       "snippet_grading": 4,
       "film_options": [
-        "The Father",
-        "Green Book",
-        "A Real Pain",
         "CODA",
+        "Oppenheimer",
         "Women Talking",
-        "Call Me by Your Name"
+        "Everything Everywhere All at Once",
+        "A Real Pain",
+        "The Father"
       ]
     },
     {
@@ -4776,11 +4776,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Everything Everywhere All at Once",
-        "West Side Story",
-        "The Danish Girl",
-        "Minari",
-        "Green Book",
-        "Parasite"
+        "The Father",
+        "Parasite",
+        "Call Me by Your Name",
+        "Anora",
+        "BlacKkKlansman"
       ]
     },
     {
@@ -4799,12 +4799,12 @@
       "plot_hint": "A brilliant mind grapples with the unexpected popularity of his invention.",
       "snippet_grading": 3,
       "film_options": [
-        "CODA",
-        "The Father",
-        "Once upon a Time...in Hollywood",
+        "King Richard",
         "Oppenheimer",
-        "Bohemian Rhapsody",
-        "A Real Pain"
+        "Nomadland",
+        "The Shape of Water",
+        "Parasite",
+        "Bohemian Rhapsody"
       ]
     },
     {
@@ -4821,12 +4821,12 @@
       "plot_hint": "A bureaucrat demonstrates how holding a grudge can really pay off.",
       "snippet_grading": 4,
       "film_options": [
-        "The Whale",
-        "Judas and the Black Messiah",
-        "Darkest Hour",
-        "Bohemian Rhapsody",
+        "Joker",
+        "King Richard",
+        "Green Book",
         "Oppenheimer",
-        "Once upon a Time...in Hollywood"
+        "Everything Everywhere All at Once",
+        "The Brutalist"
       ]
     },
     {
@@ -4843,12 +4843,12 @@
       "plot_hint": "A woman experiences some unusual side effects after undergoing a medical procedure.",
       "snippet_grading": 3,
       "film_options": [
+        "Darkest Hour",
         "Poor Things",
-        "Emilia Pérez",
-        "The Holdovers",
+        "The Father",
         "The Eyes of Tammy Faye",
-        "Minari",
-        "The Favourite"
+        "Joker",
+        "Everything Everywhere All at Once"
       ]
     },
     {
@@ -4865,12 +4865,12 @@
       "plot_hint": "A grieving parent gets a new job where she mostly just watches TV.",
       "snippet_grading": 4,
       "film_options": [
-        "The Whale",
-        "King Richard",
+        "The Favourite",
         "The Holdovers",
+        "Emilia Pérez",
+        "Nomadland",
         "Minari",
-        "The Father",
-        "If Beale Street Could Talk"
+        "Everything Everywhere All at Once"
       ]
     },
     {
@@ -4887,12 +4887,12 @@
       "plot_hint": "A bureaucrat has a really, really bad day at work.",
       "snippet_grading": 3,
       "film_options": [
-        "Joker",
-        "Everything Everywhere All at Once",
-        "Green Book",
-        "Darkest Hour",
+        "CODA",
+        "Women Talking",
         "Oppenheimer",
-        "The Whale"
+        "American Fiction",
+        "Anora",
+        "The Father"
       ]
     },
     {
@@ -4909,12 +4909,12 @@
       "plot_hint": "A bureaucrat asks an accomplished professional to explain a series of unfortunate miscalculations.",
       "snippet_grading": 3,
       "film_options": [
-        "The Favourite",
-        "Oppenheimer",
-        "Blue Jasmine",
+        "Anatomy of a Fall",
+        "Everything Everywhere All at Once",
+        "Anora",
         "Parasite",
-        "La La Land",
-        "Roma"
+        "Oppenheimer",
+        "Belfast"
       ]
     },
     {
@@ -4934,9 +4934,9 @@
         "Jojo Rabbit",
         "BlacKkKlansman",
         "American Fiction",
-        "The Father",
-        "Oppenheimer",
-        "King Richard"
+        "King Richard",
+        "Bohemian Rhapsody",
+        "Manchester by the Sea"
       ]
     },
     {
@@ -4956,12 +4956,12 @@
       "plot_hint": "A family therapy session gets slightly out of hand after one member experiences a minor accident.",
       "snippet_grading": 3,
       "film_options": [
-        "Parasite",
-        "Conclave",
-        "American Fiction",
-        "The Father",
-        "Promising Young Woman",
-        "Anatomy of a Fall"
+        "Anora",
+        "Everything Everywhere All at Once",
+        "Anatomy of a Fall",
+        "Marriage Story",
+        "If Beale Street Could Talk",
+        "The Danish Girl"
       ]
     },
     {
@@ -4978,12 +4978,12 @@
       "plot_hint": "A man pursues a life-long construction project despite increasingly strong headwinds.",
       "snippet_grading": 3,
       "film_options": [
-        "The Whale",
-        "The Brutalist",
-        "The Eyes of Tammy Faye",
-        "Joker",
+        "Oppenheimer",
         "Poor Things",
-        "Nomadland"
+        "The Favourite",
+        "The Eyes of Tammy Faye",
+        "The Brutalist",
+        "King Richard"
       ]
     },
     {
@@ -5002,12 +5002,12 @@
       "plot_hint": "A man with a complicated family history tries to enjoy a trip abroad.",
       "snippet_grading": 4,
       "film_options": [
-        "Everything Everywhere All at Once",
-        "Oppenheimer",
+        "Green Book",
         "A Real Pain",
-        "Bohemian Rhapsody",
-        "Judas and the Black Messiah",
-        "The Whale"
+        "CODA",
+        "Promising Young Woman",
+        "Once upon a Time...in Hollywood",
+        "Anatomy of a Fall"
       ]
     },
     {
@@ -5025,11 +5025,11 @@
       "snippet_grading": 3,
       "film_options": [
         "Judy",
-        "King Richard",
+        "CODA",
+        "Everything Everywhere All at Once",
         "Anora",
-        "Joker",
-        "Nomadland",
-        "The Whale"
+        "Green Book",
+        "Poor Things"
       ]
     },
     {
@@ -5046,12 +5046,12 @@
       "plot_hint": "A woman finds herself in a very unique and unusual work environment.",
       "snippet_grading": 4,
       "film_options": [
+        "The Father",
         "Everything Everywhere All at Once",
-        "A Real Pain",
-        "Marriage Story",
-        "CODA",
-        "Oppenheimer",
-        "Emilia Pérez"
+        "Emilia Pérez",
+        "The Holdovers",
+        "The Whale",
+        "Bohemian Rhapsody"
       ]
     },
     {
@@ -5068,12 +5068,12 @@
       "plot_hint": "A brief workplace romance leads to an unexpected family gathering, and some fairly serious misunderstandings.",
       "snippet_grading": 3,
       "film_options": [
+        "The Favourite",
         "Anora",
-        "Once upon a Time...in Hollywood",
+        "Everything Everywhere All at Once",
         "Nomadland",
-        "Green Book",
-        "CODA",
-        "Oppenheimer"
+        "La La Land",
+        "Parasite"
       ]
     },
     {
@@ -5090,12 +5090,12 @@
       "plot_hint": "A whirlwind romance leads to some unexpected paperwork.",
       "snippet_grading": 4,
       "film_options": [
-        "Anora",
-        "Get Out",
+        "Judas and the Black Messiah",
+        "Everything Everywhere All at Once",
         "Green Book",
-        "Parasite",
-        "Belfast",
-        "Nomadland"
+        "CODA",
+        "Nomadland",
+        "Anora"
       ]
     },
     {
@@ -5112,12 +5112,12 @@
       "plot_hint": "A very important job interview takes place, and there are a few too many candidates.",
       "snippet_grading": 3,
       "film_options": [
-        "The Brutalist",
-        "The Whale",
-        "CODA",
         "American Fiction",
-        "King Richard",
-        "Conclave"
+        "Manchester by the Sea",
+        "The Father",
+        "Conclave",
+        "Belfast",
+        "Get Out"
       ]
     },
     {
@@ -5134,12 +5134,12 @@
       "plot_hint": "A whirlwind romance experiences some turbulence when the in-laws get involved.",
       "snippet_grading": 3,
       "film_options": [
-        "Manchester by the Sea",
-        "Anatomy of a Fall",
-        "The Father",
-        "Promising Young Woman",
         "Anora",
-        "Bohemian Rhapsody"
+        "Belfast",
+        "Conclave",
+        "Parasite",
+        "American Fiction",
+        "Women Talking"
       ]
     }
   ],

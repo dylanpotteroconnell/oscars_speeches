@@ -341,10 +341,12 @@
 
   function normalizeTitle(s) {
     return s.toLowerCase()
-      .replace(/['']/g, '')       // strip apostrophes/curly quotes
-      .replace(/[^a-z0-9 ]/g, '') // strip remaining punctuation
-      .replace(/^the /, '')        // drop leading "the"
-      .replace(/\s+/g, ' ')
+      .replace(/&/g, ' and ')      // normalize ampersand before punctuation strip
+      .replace(/['']/g, '')         // strip apostrophes/curly quotes
+      .replace(/[^a-z0-9 ]/g, '')   // strip remaining punctuation
+      .replace(/^(the|a|an) /, '')  // drop leading articles
+      .replace(/ (the|a|an)$/, '')  // drop trailing articles
+      .replace(/\s+/g, ' ')         // normalize whitespace
       .trim();
   }
 
